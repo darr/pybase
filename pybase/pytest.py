@@ -3,7 +3,7 @@
 #####################################
 # File name : pytest.py
 # Create date : 2018-10-07 10:58
-# Modified date : 2019-01-27 17:36
+# Modified date : 2019-03-22 12:01
 # Author : DARREN
 # Describe : not set
 # Email : lzygzh@126.com
@@ -44,6 +44,7 @@ from auto_test import pyserver_test
 from auto_test import pymodule_test
 from auto_test import pysig_test
 from auto_test import pythread_test
+from auto_test import pycache_test
 
 
 
@@ -88,7 +89,7 @@ def run():
     pyserver_test.test()
     pysig_test.test()
     pythread_test.test()
-
+    pycache_test.test()
 
 if __name__ == "__main__":
     run()

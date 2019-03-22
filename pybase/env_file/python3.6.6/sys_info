@@ -6,8 +6,8 @@
 获取系统发行信息:Ubuntu 16.04.5 LTS \n \l
 
 
-获取系统名字和版本信息:Linux-4.15.0-46-generic-x86_64-with-Ubuntu-16.04-xenial
+获取系统名字和版本信息:Linux-4.15.0-46-generic-x86_64-with-debian-stretch-sid
 获取总体系统信息:uname_result(system='Linux', node='liuzy-MS-7B45', release='4.15.0-46-generic', version='#49~16.04.1-Ubuntu SMP Tue Feb 12 17:45:24 UTC 2019', machine='x86_64', processor='x86_64')
-获取支持的盘类型信息:('SuSE', 'debian', 'fedora', 'redhat', 'centos', 'mandrake', 'mandriva', 'rocks', 'slackware', 'yellowdog', 'gentoo', 'UnitedLinux', 'turbolinux', 'arch', 'mageia', 'Ubuntu')
+获取支持的盘类型信息:('SuSE', 'debian', 'fedora', 'redhat', 'centos', 'mandrake', 'mandriva', 'rocks', 'slackware', 'yellowdog', 'gentoo', 'UnitedLinux', 'turbolinux', 'arch', 'mageia')
 获取操作系统位数:('64bit', 'ELF')
 获取cpu核数:12

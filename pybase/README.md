@@ -1,4 +1,4 @@
-# about the environment
+#about the environment
 
 ```shell
 bash create_env.sh
@@ -12,19 +12,19 @@ to remove the enviroment.
 then you could recreate it.
 
 
-# if you want to test the pybase codes
+#if you want to test the pybase codes
 ```shell
 bash test.sh
 ```
 this will run the auto unit test.
 
-# about code
+#about code
 ```shell
 bash check_code.sh
 ```
 this will check code with pylint.
 
-# about set up
+#about set up
 set_up.sh is out of the pybase dir
 run set_up.sh will install the pybase to you enviroment.
 

@@ -1,41 +1,66 @@
 PIL.io : None
-email.MIMEAudio : <email.LazyImporter object at 0x7fc33e382310>
+email.MIMEAudio : <email.LazyImporter object at 0x7f86c795e350>
 pybase : <module 'pybase' from '../pybase/__init__.py'>
 logging.atexit : None
 concurrent.futures.types : None
 auto_test.time : None
-auto_test.pyimg_test : <module 'auto_test.pyimg_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyimg_test.pyc'>
+auto_test.pyimg_test : <module 'auto_test.pyimg_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyimg_test.pyc'>
 gc : <module 'gc' (built-in)>
 pybase.PIL : None
+requests.packages.chardet.logging : None
+requests.Cookie : None
 pybase.collections : None
 base64 : <module 'base64' from '/usr/lib/python2.7/base64.pyc'>
 pybase.pybaselog : <module 'pybase.pybaselog' from '../pybase/pybaselog.py'>
-email.MIMENonMultipart : <email.LazyImporter object at 0x7fc33e382490>
+tqdm.collections : None
+urllib3.contrib.os : None
+tarfile : <module 'tarfile' from '/usr/lib/python2.7/tarfile.pyc'>
+requests.packages.idna.re : None
+email.MIMENonMultipart : <email.LazyImporter object at 0x7f86c795e4d0>
 PIL.warnings : None
 string : <module 'string' from '/usr/lib/python2.7/string.pyc'>
+chardet.euckrprober : <module 'chardet.euckrprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/euckrprober.pyc'>
 encodings.utf_8 : <module 'encodings.utf_8' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/encodings/utf_8.pyc'>
+chardet.mbcssm : <module 'chardet.mbcssm' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/mbcssm.pyc'>
 concurrent.futures.weakref : None
+requests.zipfile : None
 json.encoder : <module 'json.encoder' from '/usr/lib/python2.7/json/encoder.pyc'>
 subprocess : <module 'subprocess' from '/usr/lib/python2.7/subprocess.pyc'>
+requests.packages.urllib3.util.wait : <module 'urllib3.util.wait' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/wait.pyc'>
 pybase.pydbbase : <module 'pybase.pydbbase' from '../pybase/pydbbase.pyc'>
+urllib3.util.retry : <module 'urllib3.util.retry' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/retry.pyc'>
+requests.packages.urllib3.util.collections : None
 concurrent.futures.collections : None
 tornado.iostream : <module 'tornado.iostream' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/iostream.pyc'>
 pybase.pyimg : <module 'pybase.pyimg' from '../pybase/pyimg.py'>
+tqdm._monitor : <module 'tqdm._monitor' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tqdm/_monitor.pyc'>
 math : <module 'math' (built-in)>
+certifi.core : <module 'certifi.core' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/certifi/core.pyc'>
+requests.logging : None
+requests.packages.chardet.escsm : <module 'chardet.escsm' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/escsm.pyc'>
 multiprocessing : <module 'multiprocessing' from '/usr/lib/python2.7/multiprocessing/__init__.pyc'>
 dis : <module 'dis' from '/usr/lib/python2.7/dis.pyc'>
 logging.threading : None
-pyobject : <module 'pyobject' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pyobject.py'>
+pyobject : <module 'pyobject' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pyobject.py'>
+urllib3.packages.ssl_match_hostname._implementation : <module 'urllib3.packages.ssl_match_hostname._implementation' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/packages/ssl_match_hostname/_implementation.pyc'>
+idna.intranges : <module 'idna.intranges' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/intranges.pyc'>
+requests.packages.chardet.sbcsgroupprober : <module 'chardet.sbcsgroupprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/sbcsgroupprober.pyc'>
 pybase.fcntl : None
 MySQLdb.sys : None
 pybase.base64 : None
+requests.packages.idna.bisect : None
 abc : <module 'abc' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/abc.pyc'>
-auto_test.pysql_test : <module 'auto_test.pysql_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pysql_test.pyc'>
+auto_test.pysql_test : <module 'auto_test.pysql_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pysql_test.pyc'>
 pybase.pyfile : <module 'pybase.pyfile' from '../pybase/pyfile.pyc'>
 pybase.pyobject : <module 'pybase.pyobject' from '../pybase/pyobject.pyc'>
-pydbbase : <module 'pydbbase' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pydbbase.py'>
+pydbbase : <module 'pydbbase' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pydbbase.py'>
 tornado.process : <module 'tornado.process' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/process.pyc'>
+requests.packages.chardet.langcyrillicmodel : <module 'chardet.langcyrillicmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langcyrillicmodel.pyc'>
+urllib3.packages : <module 'urllib3.packages' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/packages/__init__.pyc'>
+requests.packages.urllib3.exceptions : <module 'urllib3.exceptions' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/exceptions.pyc'>
+chardet.big5prober : <module 'chardet.big5prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/big5prober.pyc'>
 PIL.Image : <module 'PIL.Image' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/PIL/Image.pyc'>
+fnmatch : <module 'fnmatch' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/fnmatch.pyc'>
 json.scanner : <module 'json.scanner' from '/usr/lib/python2.7/json/scanner.pyc'>
 PIL._util : <module 'PIL._util' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/PIL/_util.pyc'>
 tornado.httpclient : <module 'tornado.httpclient' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/httpclient.pyc'>
@@ -43,127 +68,207 @@ codecs : <module 'codecs' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/cod
 pybase.urllib2 : None
 logging.weakref : None
 tornado.escape : <module 'tornado.escape' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/escape.pyc'>
+urllib3.util.timeout : <module 'urllib3.util.timeout' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/timeout.pyc'>
 multiprocessing.multiprocessing : None
+StringIO : <module 'StringIO' from '/usr/lib/python2.7/StringIO.pyc'>
+urllib3.util.functools : None
 concurrent.futures.atexit : None
 weakref : <module 'weakref' from '/usr/lib/python2.7/weakref.pyc'>
+requests.packages.urllib3.util.time : None
 pybase.pickle : None
+chardet.sbcsgroupprober : <module 'chardet.sbcsgroupprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/sbcsgroupprober.pyc'>
+requests.packages.chardet.re : None
+requests.packages.chardet.langbulgarianmodel : <module 'chardet.langbulgarianmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langbulgarianmodel.pyc'>
 MySQLdb.time : None
-email.FeedParser : <email.LazyImporter object at 0x7fc33e3820d0>
+email.FeedParser : <email.LazyImporter object at 0x7f86c795e110>
 logging.sys : None
+urllib3.packages.six.moves.http_client : <module 'httplib' from '/usr/lib/python2.7/httplib.pyc'>
 logging.re : None
 select : <module 'select' (built-in)>
 _heapq : <module '_heapq' (built-in)>
 pybase.pypickle : <module 'pybase.pypickle' from '../pybase/pypickle.py'>
+requests.packages.urllib3.util : <module 'urllib3.util' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/__init__.pyc'>
 binascii : <module 'binascii' (built-in)>
-auto_test.pydec_encry_test : <module 'auto_test.pydec_encry_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pydec_encry_test.pyc'>
-email.MIMEMessage : <email.LazyImporter object at 0x7fc33e3823d0>
+requests.cookies : <module 'requests.cookies' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/cookies.pyc'>
+auto_test.pydec_encry_test : <module 'auto_test.pydec_encry_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pydec_encry_test.pyc'>
+email.MIMEMessage : <email.LazyImporter object at 0x7f86c795e410>
 email._parseaddr : <module 'email._parseaddr' from '/usr/lib/python2.7/email/_parseaddr.pyc'>
 email.sys : None
 tokenize : <module 'tokenize' from '/usr/lib/python2.7/tokenize.pyc'>
-pydb : <module 'pydb' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pydb.py'>
+pydb : <module 'pydb' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pydb.py'>
+requests.structures : <module 'requests.structures' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/structures.pyc'>
+requests.packages.chardet.codecs : None
+requests.packages.chardet.codingstatemachine : <module 'chardet.codingstatemachine' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/codingstatemachine.pyc'>
 cPickle : <module 'cPickle' (built-in)>
 pybase.pysqlite : <module 'pybase.pysqlite' from '../pybase/pysqlite.pyc'>
 singledispatch_helpers : <module 'singledispatch_helpers' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/singledispatch_helpers.pyc'>
+urllib3.packages.six.moves.urllib : <module 'urllib3.packages.six.moves.urllib' (built-in)>
+tqdm.subprocess : None
 unicodedata : <module 'unicodedata' (built-in)>
-auto_test.pyre_test : <module 'auto_test.pyre_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyre_test.pyc'>
+chardet.version : <module 'chardet.version' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/version.pyc'>
+auto_test.pyre_test : <module 'auto_test.pyre_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyre_test.pyc'>
 auto_test.datetime : None
 encodings.aliases : <module 'encodings.aliases' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/encodings/aliases.pyc'>
+tqdm._utils : <module 'tqdm._utils' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tqdm/_utils.pyc'>
 exceptions : <module 'exceptions' (built-in)>
 sre_parse : <module 'sre_parse' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/sre_parse.pyc'>
 tornado.concurrent : <module 'tornado.concurrent' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/concurrent.pyc'>
 pickle : <module 'pickle' from '/usr/lib/python2.7/pickle.pyc'>
+requests.packages.chardet.charsetprober : <module 'chardet.charsetprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/charsetprober.pyc'>
 pybase.datetime : None
 pybase.pythread : <module 'pybase.pythread' from '../pybase/pythread.py'>
 logging.cStringIO : None
 tornado.tcpserver : <module 'tornado.tcpserver' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/tcpserver.pyc'>
+urllib3.util.collections : None
 singledispatch : <module 'singledispatch' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/singledispatch.pyc'>
 numbers : <module 'numbers' from '/usr/lib/python2.7/numbers.pyc'>
-email.Header : <email.LazyImporter object at 0x7fc33e382150>
+requests.exceptions : <module 'requests.exceptions' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/exceptions.pyc'>
+chardet.euctwfreq : <module 'chardet.euctwfreq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/euctwfreq.pyc'>
+email.Header : <email.LazyImporter object at 0x7f86c795e190>
+urllib3.fields : <module 'urllib3.fields' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/fields.pyc'>
+shutil : <module 'shutil' from '/usr/lib/python2.7/shutil.pyc'>
 strop : <module 'strop' (built-in)>
 PIL.struct : None
+requests.packages.chardet.big5prober : <module 'chardet.big5prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/big5prober.pyc'>
 auto_test.sys : None
 concurrent.futures.process : <module 'concurrent.futures.process' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/concurrent/futures/process.pyc'>
+pytest : <module 'pytest' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pytest.py'>
+tqdm.warnings : None
 pybase.pyprocess : <module 'pybase.pyprocess' from '../pybase/pyprocess.py'>
 pybase.pyjson_data : <module 'pybase.pyjson_data' from '../pybase/pyjson_data.py'>
 MySQLdb.MySQLdb : None
+requests.packages.chardet.gb2312freq : <module 'chardet.gb2312freq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/gb2312freq.pyc'>
 concurrent.pkgutil : None
-auto_test.pybiology_test : <module 'auto_test.pybiology_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pybiology_test.pyc'>
+auto_test.pybiology_test : <module 'auto_test.pybiology_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pybiology_test.pyc'>
 htmlentitydefs : <module 'htmlentitydefs' from '/usr/lib/python2.7/htmlentitydefs.pyc'>
+chardet.jpcntx : <module 'chardet.jpcntx' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/jpcntx.pyc'>
+requests.packages.chardet.latin1prober : <module 'chardet.latin1prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/latin1prober.pyc'>
 multiprocessing.sys : None
 tornado.platform.interface : <module 'tornado.platform.interface' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/platform/interface.pyc'>
+requests.packages.urllib3.packages : <module 'urllib3.packages' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/packages/__init__.pyc'>
 os.path : <module 'posixpath' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/posixpath.pyc'>
-auto_test.pysqlite_test : <module 'auto_test.pysqlite_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pysqlite_test.pyc'>
+auto_test.pysqlite_test : <module 'auto_test.pysqlite_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pysqlite_test.pyc'>
 pybase.pymysqldb : <module 'pybase.pymysqldb' from '../pybase/pymysqldb.pyc'>
+requests.base64 : None
 pybase.pylog : <module 'pybase.pylog' from '../pybase/pylog.pyc'>
 _weakrefset : <module '_weakrefset' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/_weakrefset.pyc'>
+requests.packages.urllib3.util.request : <module 'urllib3.util.request' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/request.pyc'>
+urllib3.util.select : None
 pybase.pymodule : <module 'pybase.pymodule' from '../pybase/pymodule.py'>
-auto_test.pyprocess_test : <module 'auto_test.pyprocess_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyprocess_test.pyc'>
-auto_test.pydb_test : <module 'auto_test.pydb_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pydb_test.pyc'>
+urllib3.connectionpool : <module 'urllib3.connectionpool' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/connectionpool.pyc'>
+idna.idnadata : <module 'idna.idnadata' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/idnadata.pyc'>
+auto_test.pyprocess_test : <module 'auto_test.pyprocess_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyprocess_test.pyc'>
+auto_test.pydb_test : <module 'auto_test.pydb_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pydb_test.pyc'>
 functools : <module 'functools' from '/usr/lib/python2.7/functools.pyc'>
+urllib3.exceptions : <module 'urllib3.exceptions' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/exceptions.pyc'>
+requests.packages.idna.sys : None
 pybase.abc : None
-pymysqldb : <module 'pymysqldb' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pymysqldb.py'>
+pymysqldb : <module 'pymysqldb' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pymysqldb.py'>
 concurrent.futures.concurrent : None
+urllib3.util.request : <module 'urllib3.util.request' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/request.pyc'>
 sqlite3.collections : None
+requests.time : None
 tempfile : <module 'tempfile' from '/usr/lib/python2.7/tempfile.pyc'>
 PIL.sys : None
 platform : <module 'platform' from '/usr/lib/python2.7/platform.pyc'>
+requests.urllib2 : None
+requests.urllib3 : None
 multiprocessing.os : None
+cookielib : <module 'cookielib' from '/usr/lib/python2.7/cookielib.pyc'>
+chardet.charsetprober : <module 'chardet.charsetprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/charsetprober.pyc'>
 auto_test.pybase : None
 multiprocessing.itertools : None
-auto_test.pylinux_test : <module 'auto_test.pylinux_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pylinux_test.pyc'>
+requests.adapters : <module 'requests.adapters' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/adapters.pyc'>
+idna.unicodedata : None
+auto_test.pylinux_test : <module 'auto_test.pylinux_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pylinux_test.pyc'>
 tornado.http1connection : <module 'tornado.http1connection' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/http1connection.pyc'>
+requests.packages.chardet.version : <module 'chardet.version' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/version.pyc'>
+chardet.sjisprober : <module 'chardet.sjisprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/sjisprober.pyc'>
 pybase.pylinux : <module 'pybase.pylinux' from '../pybase/pylinux.pyc'>
 logging.logging : None
 email.urllib : None
 httplib : <module 'httplib' from '/usr/lib/python2.7/httplib.pyc'>
+urllib3.util.time : None
 pybase.pycount : <module 'pybase.pycount' from '../pybase/pycount.py'>
+requests.packages.urllib3.packages.ssl_match_hostname._implementation : <module 'urllib3.packages.ssl_match_hostname._implementation' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/packages/ssl_match_hostname/_implementation.pyc'>
+requests.packages.chardet.langturkishmodel : <module 'chardet.langturkishmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langturkishmodel.pyc'>
 logging.handlers : <module 'logging.handlers' from '/usr/lib/python2.7/logging/handlers.pyc'>
 MySQLdb.datetime : None
 token : <module 'token' from '/usr/lib/python2.7/token.pyc'>
 email.encoders : <module 'email.encoders' from '/usr/lib/python2.7/email/encoders.pyc'>
-auto_test.pyjson_test : <module 'auto_test.pyjson_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyjson_test.pyc'>
+requests.packages.chardet.charsetgroupprober : <module 'chardet.charsetgroupprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/charsetgroupprober.pyc'>
+auto_test.pyjson_test : <module 'auto_test.pyjson_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyjson_test.pyc'>
 cStringIO : <module 'cStringIO' (built-in)>
 PIL.ImageMode : <module 'PIL.ImageMode' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/PIL/ImageMode.pyc'>
+requests.packages.chardet.mbcssm : <module 'chardet.mbcssm' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/mbcssm.pyc'>
+requests.datetime : None
 multiprocessing.process : <module 'multiprocessing.process' from '/usr/lib/python2.7/multiprocessing/process.pyc'>
 PIL._imaging : <module 'PIL._imaging' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/PIL/_imaging.so'>
+requests.packages.chardet.universaldetector : <module 'chardet.universaldetector' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/universaldetector.pyc'>
 encodings : <module 'encodings' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/encodings/__init__.pyc'>
+requests.packages.chardet.hebrewprober : <module 'chardet.hebrewprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/hebrewprober.pyc'>
 PIL._binary : <module 'PIL._binary' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/PIL/_binary.pyc'>
+requests.packages.urllib3.util.url : <module 'urllib3.util.url' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/url.pyc'>
 encodings.stringprep : None
 re : <module 're' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/re.pyc'>
 email.quopri : None
 sqlite3.time : None
 PIL.atexit : None
+requests.packages.chardet.langthaimodel : <module 'chardet.langthaimodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langthaimodel.pyc'>
+requests.packages.chardet.jpcntx : <module 'chardet.jpcntx' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/jpcntx.pyc'>
 pybase.struct : None
+requests.packages.urllib3.packages.ssl_match_hostname.re : None
+chardet.langhebrewmodel : <module 'chardet.langhebrewmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langhebrewmodel.pyc'>
+requests.packages.urllib3.util.retry : <module 'urllib3.util.retry' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/retry.pyc'>
+requests.packages.urllib3.packages.six.moves.urllib.parse : <module 'urllib3.packages.six.moves.urllib_parse' (built-in)>
+chardet.langturkishmodel : <module 'chardet.langturkishmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langturkishmodel.pyc'>
 _locale : <module '_locale' (built-in)>
 logging : <module 'logging' from '/usr/lib/python2.7/logging/__init__.pyc'>
 thread : <module 'thread' (built-in)>
 traceback : <module 'traceback' from '/usr/lib/python2.7/traceback.pyc'>
+chardet.latin1prober : <module 'chardet.latin1prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/latin1prober.pyc'>
 concurrent.futures.time : None
 errno : <module 'errno' (built-in)>
 multiprocessing.util : <module 'multiprocessing.util' from '/usr/lib/python2.7/multiprocessing/util.pyc'>
+requests.copy : None
+chardet.universaldetector : <module 'chardet.universaldetector' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/universaldetector.pyc'>
 pybase.os : None
 _collections : <module '_collections' (built-in)>
 pybase.pyglobal : <module 'pybase.pyglobal' from '../pybase/pyglobal.py'>
+requests.packages.urllib3.contrib._appengine_environ : <module 'urllib3.contrib._appengine_environ' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/contrib/_appengine_environ.pyc'>
+requests.packages.chardet.enums : <module 'chardet.enums' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/enums.pyc'>
+urllib3.contrib._appengine_environ : <module 'urllib3.contrib._appengine_environ' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/contrib/_appengine_environ.pyc'>
 array : <module 'array' (built-in)>
-email.Errors : <email.LazyImporter object at 0x7fc33e382090>
+email.Errors : <email.LazyImporter object at 0x7f86c795e0d0>
 pybase.__future__ : None
+_LWPCookieJar : <module '_LWPCookieJar' from '/usr/lib/python2.7/_LWPCookieJar.pyc'>
 posixpath : <module 'posixpath' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/posixpath.pyc'>
 pybase.sys : None
+requests.json : None
 types : <module 'types' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/types.pyc'>
+chardet.sys : None
 json._json : None
-auto_test.pyfile_test : <module 'auto_test.pyfile_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyfile_test.pyc'>
-auto_test.pyserver_test : <module 'auto_test.pyserver_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyserver_test.pyc'>
+auto_test.pyfile_test : <module 'auto_test.pyfile_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyfile_test.pyc'>
+auto_test.pyserver_test : <module 'auto_test.pyserver_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyserver_test.pyc'>
+tqdm.io : None
 MySQLdb._mysql : <module 'MySQLdb._mysql' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/MySQLdb/_mysql.so'>
 _codecs : <module '_codecs' (built-in)>
 json.sys : None
+requests.codecs : None
 concurrent.futures.multiprocessing : None
+tqdm.weakref : None
+tqdm.logging : None
 email.time : None
+requests.packages.chardet.sjisprober : <module 'chardet.sjisprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/sjisprober.pyc'>
 hashlib : <module 'hashlib' from '/usr/lib/python2.7/hashlib.pyc'>
 keyword : <module 'keyword' from '/usr/lib/python2.7/keyword.pyc'>
+urllib3.packages.ssl_match_hostname.re : None
 stringprep : <module 'stringprep' from '/usr/lib/python2.7/stringprep.pyc'>
 posix : <module 'posix' (built-in)>
+chardet.escsm : <module 'chardet.escsm' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/escsm.pyc'>
 _curses : <module '_curses' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/lib-dynload/_curses.x86_64-linux-gnu.so'>
-auto_test.pymysqldb_test : <module 'auto_test.pymysqldb_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pymysqldb_test.pyc'>
+auto_test.pymysqldb_test : <module 'auto_test.pymysqldb_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pymysqldb_test.pyc'>
+idna.re : None
 sre_compile : <module 'sre_compile' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/sre_compile.pyc'>
 pybase.sqlite3 : None
 _hashlib : <module '_hashlib' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/lib-dynload/_hashlib.x86_64-linux-gnu.so'>
@@ -172,75 +277,132 @@ email.base64 : None
 __main__ : <module '__main__' from 'pytest.py'>
 multiprocessing.atexit : None
 pybase.pyhttp : <module 'pybase.pyhttp' from '../pybase/pyhttp.py'>
-auto_test : <module 'auto_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/__init__.pyc'>
+auto_test : <module 'auto_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/__init__.pyc'>
 concurrent.futures : <module 'concurrent.futures' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/concurrent/futures/__init__.pyc'>
+requests.packages.urllib3.util.functools : None
+requests.packages.chardet.sys : None
 concurrent.futures._base : <module 'concurrent.futures._base' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/concurrent/futures/_base.pyc'>
 encodings.codecs : None
-auto_test.pypickle_test : <module 'auto_test.pypickle_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pypickle_test.pyc'>
-email.MIMEMultipart : <email.LazyImporter object at 0x7fc33e382410>
+auto_test.pypickle_test : <module 'auto_test.pypickle_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pypickle_test.pyc'>
+email.MIMEMultipart : <email.LazyImporter object at 0x7f86c795e450>
 curses.curses : None
 _ssl : <module '_ssl' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/lib-dynload/_ssl.x86_64-linux-gnu.so'>
 MySQLdb.compat : <module 'MySQLdb.compat' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/MySQLdb/compat.pyc'>
 warnings : <module 'warnings' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/warnings.pyc'>
 tornado : <module 'tornado' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/__init__.pyc'>
 encodings.ascii : <module 'encodings.ascii' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/encodings/ascii.pyc'>
-pysql : <module 'pysql' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pysql.py'>
+urllib3.packages.six.moves : <module 'urllib3.packages.six.moves' (built-in)>
+pysql : <module 'pysql' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pysql.py'>
 _sqlite3 : <module '_sqlite3' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/lib-dynload/_sqlite3.x86_64-linux-gnu.so'>
 multiprocessing._multiprocessing : None
 concurrent.futures.sys : None
-auto_test.pyobject_test : <module 'auto_test.pyobject_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyobject_test.pyc'>
+auto_test.pyobject_test : <module 'auto_test.pyobject_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyobject_test.pyc'>
+requests.cookielib : None
 _io : <module '_io' (built-in)>
 linecache : <module 'linecache' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/linecache.pyc'>
+tqdm._tqdm_pandas : <module 'tqdm._tqdm_pandas' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tqdm/_tqdm_pandas.pyc'>
+requests.packages.chardet.compat : <module 'chardet.compat' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/compat.pyc'>
+hmac : <module 'hmac' from '/usr/lib/python2.7/hmac.pyc'>
+requests.packages.chardet.euckrprober : <module 'chardet.euckrprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/euckrprober.pyc'>
 MySQLdb.constants.FIELD_TYPE : <module 'MySQLdb.constants.FIELD_TYPE' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/MySQLdb/constants/FIELD_TYPE.pyc'>
 tornado.log : <module 'tornado.log' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/log.pyc'>
 random : <module 'random' from '/usr/lib/python2.7/random.pyc'>
 _bisect : <module '_bisect' (built-in)>
 datetime : <module 'datetime' (built-in)>
+requests.urlparse : None
 logging.os : None
 encodings.encodings : None
+tqdm.platform : None
+requests.utils : <module 'requests.utils' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/utils.pyc'>
 logging.stat : None
 copy : <module 'copy' from '/usr/lib/python2.7/copy.pyc'>
-auto_test.pythread_test : <module 'auto_test.pythread_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pythread_test.pyc'>
+auto_test.pythread_test : <module 'auto_test.pythread_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pythread_test.pyc'>
+requests.sessions : <module 'requests.sessions' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/sessions.pyc'>
+auto_test.pycache_test : <module 'auto_test.pycache_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pycache_test.pyc'>
+urllib3.connection : <module 'urllib3.connection' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/connection.pyc'>
+auto_test.pycache : None
 _json : <module '_json' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/lib-dynload/_json.x86_64-linux-gnu.so'>
+requests.packages.urllib3.packages.six.moves : <module 'urllib3.packages.six.moves' (built-in)>
+requests.packages.urllib3.packages.ssl_match_hostname.sys : None
+requests.packages.chardet.jisfreq : <module 'chardet.jisfreq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/jisfreq.pyc'>
+requests.packages.urllib3.util.queue : <module 'urllib3.util.queue' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/queue.pyc'>
 logging.thread : None
+urllib3.util.wait : <module 'urllib3.util.wait' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/wait.pyc'>
+requests.packages.urllib3.fields : <module 'urllib3.fields' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/fields.pyc'>
 pybase.binascii : None
 MySQLdb._exceptions : <module 'MySQLdb._exceptions' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/MySQLdb/_exceptions.pyc'>
 pybase.json : None
+tqdm._tqdm : <module 'tqdm._tqdm' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tqdm/_tqdm.pyc'>
 concurrent.futures.threading : None
+zipfile : <module 'zipfile' from '/usr/lib/python2.7/zipfile.pyc'>
 PIL._version : <module 'PIL._version' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/PIL/_version.pyc'>
+requests.packages.urllib3 : <module 'urllib3' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/__init__.pyc'>
 ssl : <module 'ssl' from '/usr/lib/python2.7/ssl.pyc'>
+requests.packages.urllib3.util.Queue : None
 tornado.platform.posix : <module 'tornado.platform.posix' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/platform/posix.pyc'>
 pybase.platform : None
 tornado.httputil : <module 'tornado.httputil' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/httputil.pyc'>
 bisect : <module 'bisect' from '/usr/lib/python2.7/bisect.pyc'>
-email.MIMEImage : <email.LazyImporter object at 0x7fc33e382390>
+tqdm.time : None
+chardet.compat : <module 'chardet.compat' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/compat.pyc'>
+email.MIMEImage : <email.LazyImporter object at 0x7f86c795e3d0>
 threading : <module 'threading' from '/usr/lib/python2.7/threading.pyc'>
-auto_test.pylog_table_test : <module 'auto_test.pylog_table_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pylog_table_test.pyc'>
-email.Message : <email.LazyImporter object at 0x7fc33e3821d0>
+auto_test.pylog_table_test : <module 'auto_test.pylog_table_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pylog_table_test.pyc'>
+requests.hashlib : None
+email.Message : <email.LazyImporter object at 0x7f86c795e210>
 locale : <module 'locale' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/locale.pyc'>
 PIL.collections : None
 auto_test.pylog : None
 atexit : <module 'atexit' from '/usr/lib/python2.7/atexit.pyc'>
-email.quopriMIME : <email.LazyImporter object at 0x7fc33e3822d0>
+email.quopriMIME : <email.LazyImporter object at 0x7f86c795e310>
+chardet.euckrfreq : <module 'chardet.euckrfreq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/euckrfreq.pyc'>
+chardet.langcyrillicmodel : <module 'chardet.langcyrillicmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langcyrillicmodel.pyc'>
+requests.status_codes : <module 'requests.status_codes' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/status_codes.pyc'>
 calendar : <module 'calendar' from '/usr/lib/python2.7/calendar.pyc'>
+requests.packages.urllib3.packages.six.moves.http_client : <module 'httplib' from '/usr/lib/python2.7/httplib.pyc'>
+requests.auth : <module 'requests.auth' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/auth.pyc'>
+requests.packages.idna : <module 'idna' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/__init__.pyc'>
+requests.packages.urllib3.util.select : None
 concurrent.futures.itertools : None
 PIL.logging : None
 urllib : <module 'urllib' from '/usr/lib/python2.7/urllib.pyc'>
-email.MIMEText : <email.LazyImporter object at 0x7fc33e382550>
+email.MIMEText : <email.LazyImporter object at 0x7f86c795e590>
+requests.collections : None
+requests.StringIO : None
+chardet.chardistribution : <module 'chardet.chardistribution' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/chardistribution.pyc'>
+chardet : <module 'chardet' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/__init__.pyc'>
+_MozillaCookieJar : <module '_MozillaCookieJar' from '/usr/lib/python2.7/_MozillaCookieJar.pyc'>
+urllib3.util.connection : <module 'urllib3.util.connection' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/connection.pyc'>
 email : <module 'email' from '/usr/lib/python2.7/email/__init__.pyc'>
+chardet.mbcsgroupprober : <module 'chardet.mbcsgroupprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/mbcsgroupprober.pyc'>
+requests.urllib : None
 fcntl : <module 'fcntl' (built-in)>
+chardet.eucjpprober : <module 'chardet.eucjpprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/eucjpprober.pyc'>
+chardet.mbcharsetprober : <module 'chardet.mbcharsetprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/mbcharsetprober.pyc'>
+requests.models : <module 'requests.models' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/models.pyc'>
 Queue : <module 'Queue' from '/usr/lib/python2.7/Queue.pyc'>
-auto_test.pybaselog_test : <module 'auto_test.pybaselog_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pybaselog_test.pyc'>
-pylinux : <module 'pylinux' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pylinux.py'>
+chardet.escprober : <module 'chardet.escprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/escprober.pyc'>
+auto_test.pybaselog_test : <module 'auto_test.pybaselog_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pybaselog_test.pyc'>
+requests.packages.chardet.euctwfreq : <module 'chardet.euctwfreq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/euctwfreq.pyc'>
+certifi.os : None
+requests.__version__ : <module 'requests.__version__' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/__version__.pyc'>
+pylinux : <module 'pylinux' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pylinux.py'>
 json.re : None
 pybase.threading : None
 commands : <module 'commands' from '/usr/lib/python2.7/commands.pyc'>
+requests.packages.urllib3.contrib : <module 'urllib3.contrib' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/contrib/__init__.pyc'>
 tornado.gen : <module 'tornado.gen' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/gen.pyc'>
-etc : <module 'etc' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/etc.py'>
+chardet.utf8prober : <module 'chardet.utf8prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/utf8prober.pyc'>
+chardet.langbulgarianmodel : <module 'chardet.langbulgarianmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langbulgarianmodel.pyc'>
+etc : <module 'etc' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/etc.py'>
 itertools : <module 'itertools' (built-in)>
 opcode : <module 'opcode' from '/usr/lib/python2.7/opcode.pyc'>
+chardet.cp949prober : <module 'chardet.cp949prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/cp949prober.pyc'>
+requests : <module 'requests' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/__init__.pyc'>
 mimetools : <module 'mimetools' from '/usr/lib/python2.7/mimetools.pyc'>
+requests.warnings : None
 sqlite3.datetime : None
+pycache : <module 'pycache' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pycache.py'>
 pybase.pyDes : <module 'pybase.pyDes' from '../pybase/pyDes.py'>
 email.calendar : None
 logging.errno : None
@@ -248,97 +410,169 @@ curses._curses : None
 auto_test.__future__ : None
 pkgutil : <module 'pkgutil' from '/usr/lib/python2.7/pkgutil.pyc'>
 pybase.socket : None
-email.base64MIME : <email.LazyImporter object at 0x7fc33e382290>
-auto_test.pyhttp_test : <module 'auto_test.pyhttp_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyhttp_test.pyc'>
+email.base64MIME : <email.LazyImporter object at 0x7f86c795e2d0>
+auto_test.pyhttp_test : <module 'auto_test.pyhttp_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyhttp_test.pyc'>
 logging.struct : None
 sre_constants : <module 'sre_constants' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/sre_constants.pyc'>
+requests.packages.idna.core : <module 'idna.core' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/core.pyc'>
 json : <module 'json' from '/usr/lib/python2.7/json/__init__.pyc'>
+urllib3.util.errno : None
+tqdm.threading : None
+urllib3.contrib : <module 'urllib3.contrib' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/contrib/__init__.pyc'>
+auto_test.os : None
+certifi : <module 'certifi' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/certifi/__init__.pyc'>
 pybase.pydb : <module 'pybase.pydb' from '../pybase/pydb.pyc'>
+urllib3.filepost : <module 'urllib3.filepost' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/filepost.pyc'>
+mimetypes : <module 'mimetypes' from '/usr/lib/python2.7/mimetypes.pyc'>
+requests.packages.urllib3._collections : <module 'urllib3._collections' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/_collections.pyc'>
+requests.packages.urllib3.connectionpool : <module 'urllib3.connectionpool' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/connectionpool.pyc'>
+requests.packages.urllib3.util.connection : <module 'urllib3.util.connection' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/connection.pyc'>
 email.utils : <module 'email.utils' from '/usr/lib/python2.7/email/utils.pyc'>
+requests.packages.chardet.euctwprober : <module 'chardet.euctwprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/euctwprober.pyc'>
 pybase.hashlib : None
+chardet.codingstatemachine : <module 'chardet.codingstatemachine' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/codingstatemachine.pyc'>
 curses.sys : None
 logging.cPickle : None
-auto_test.pyabc_test : <module 'auto_test.pyabc_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyabc_test.pyc'>
+auto_test.pyabc_test : <module 'auto_test.pyabc_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyabc_test.pyc'>
 email.socket : None
 email.email : None
+urllib3.util.url : <module 'urllib3.util.url' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/url.pyc'>
 encodings.re : None
 concurrent.futures.logging : None
+requests.packages.urllib3.util.ssl_ : <module 'urllib3.util.ssl_' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/ssl_.pyc'>
+chardet.re : None
 zlib : <module 'zlib' (built-in)>
+requests.packages.urllib3.connection : <module 'urllib3.connection' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/connection.pyc'>
 pybase.re : None
 email.random : None
+requests.certifi : None
 concurrent.futures.Queue : None
 multiprocessing.weakref : None
 json.decoder : <module 'json.decoder' from '/usr/lib/python2.7/json/decoder.pyc'>
+chardet.sbcharsetprober : <module 'chardet.sbcharsetprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/sbcharsetprober.pyc'>
 copy_reg : <module 'copy_reg' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/copy_reg.pyc'>
 tornado.platform.auto : <module 'tornado.platform.auto' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/platform/auto.pyc'>
 site : <module 'site' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/site.pyc'>
+requests.packages.urllib3.filepost : <module 'urllib3.filepost' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/filepost.pyc'>
 PIL.os : None
+requests.encodings : None
 io : <module 'io' from '/usr/lib/python2.7/io.pyc'>
-email.MIMEBase : <email.LazyImporter object at 0x7fc33e382350>
+requests.packages.chardet.mbcsgroupprober : <module 'chardet.mbcsgroupprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/mbcsgroupprober.pyc'>
+email.MIMEBase : <email.LazyImporter object at 0x7f86c795e390>
 backports_abc : <module 'backports_abc' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/backports_abc.pyc'>
+requests.packages.urllib3.util.sys : None
 pybase.pysig : <module 'pybase.pysig' from '../pybase/pysig.py'>
-pylog : <module 'pylog' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pylog.py'>
+requests.packages.idna.idnadata : <module 'idna.idnadata' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/idnadata.pyc'>
+chardet.gb2312freq : <module 'chardet.gb2312freq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/gb2312freq.pyc'>
+pylog : <module 'pylog' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pylog.py'>
+idna.package_data : <module 'idna.package_data' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/package_data.pyc'>
 pybase.pyre : <module 'pybase.pyre' from '../pybase/pyre.py'>
-pytest : <module 'pytest' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pytest.py'>
+requests.packages.urllib3.util.response : <module 'urllib3.util.response' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/response.pyc'>
+requests.re : None
 PIL.numbers : None
 pybase.pydec_encry : <module 'pybase.pydec_encry' from '../pybase/pydec_encry.py'>
 sqlite3 : <module 'sqlite3' from '/usr/lib/python2.7/sqlite3/__init__.pyc'>
+chardet.euctwprober : <module 'chardet.euctwprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/euctwprober.pyc'>
 curses.os : None
+requests.packages.chardet.sbcharsetprober : <module 'chardet.sbcharsetprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/sbcharsetprober.pyc'>
 rfc822 : <module 'rfc822' from '/usr/lib/python2.7/rfc822.pyc'>
 json.json : None
 email.re : None
+chardet.enums : <module 'chardet.enums' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/enums.pyc'>
 textwrap : <module 'textwrap' from '/usr/lib/python2.7/textwrap.pyc'>
 sys : <module 'sys' (built-in)>
 multiprocessing.subprocess : None
 tornado.httpserver : <module 'tornado.httpserver' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/httpserver.pyc'>
+requests.hooks : <module 'requests.hooks' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/hooks.pyc'>
+requests.packages.chardet.chardistribution : <module 'chardet.chardistribution' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/chardistribution.pyc'>
+urllib3.util.sys : None
+tqdm._main : <module 'tqdm._main' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tqdm/_main.pyc'>
 pybase.signal : None
 _weakref : <module '_weakref' (built-in)>
+tqdm.os : None
 urlparse : <module 'urlparse' from '/usr/lib/python2.7/urlparse.pyc'>
 encodings.idna : <module 'encodings.idna' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/encodings/idna.pyc'>
 PIL.__builtin__ : None
+idna.sys : None
+requests.packages.urllib3.packages.six : <module 'urllib3.packages.six' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/packages/six.pyc'>
 heapq : <module 'heapq' from '/usr/lib/python2.7/heapq.pyc'>
+requests.api : <module 'requests.api' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/api.pyc'>
+requests.os : None
+urllib3.packages.ssl_match_hostname.sys : None
+requests._internal_utils : <module 'requests._internal_utils' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/_internal_utils.pyc'>
 email.mime : <module 'email.mime' from '/usr/lib/python2.7/email/mime/__init__.pyc'>
+urllib3.packages.six : <module 'urllib3.packages.six' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/packages/six.pyc'>
+tqdm.re : None
+requests.packages.chardet : <module 'chardet' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/__init__.pyc'>
 PIL : <module 'PIL' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/PIL/__init__.pyc'>
 struct : <module 'struct' from '/usr/lib/python2.7/struct.pyc'>
+urllib3.util.response : <module 'urllib3.util.response' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/response.pyc'>
+requests.packages.urllib3.util.errno : None
 MySQLdb.times : <module 'MySQLdb.times' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/MySQLdb/times.pyc'>
 _abcoll : <module '_abcoll' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/_abcoll.pyc'>
 collections : <module 'collections' from '/usr/lib/python2.7/collections.pyc'>
 _sre : <module '_sre' (built-in)>
 logging.socket : None
-email.Parser : <email.LazyImporter object at 0x7fc33e382210>
-auto_test.pytime_test : <module 'auto_test.pytime_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pytime_test.pyc'>
+email.Parser : <email.LazyImporter object at 0x7f86c795e250>
+auto_test.pytime_test : <module 'auto_test.pytime_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pytime_test.pyc'>
 zipimport : <module 'zipimport' (built-in)>
-pylog_table : <module 'pylog_table' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pylog_table.py'>
-auto_test.pyjson_data_test : <module 'auto_test.pyjson_data_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyjson_data_test.pyc'>
+requests.sys : None
+requests.io : None
+pylog_table : <module 'pylog_table' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pylog_table.py'>
+auto_test.pyjson_data_test : <module 'auto_test.pyjson_data_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyjson_data_test.pyc'>
+urllib3.poolmanager : <module 'urllib3.poolmanager' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/poolmanager.pyc'>
+requests.packages.chardet.utf8prober : <module 'chardet.utf8prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/utf8prober.pyc'>
 pybase.pytime : <module 'pybase.pytime' from '../pybase/pytime.py'>
+chardet.charsetgroupprober : <module 'chardet.charsetgroupprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/charsetgroupprober.pyc'>
 tornado.util : <module 'tornado.util' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/util.pyc'>
-pybaselog : <module 'pybaselog' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pybaselog.pyc'>
+pybaselog : <module 'pybaselog' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pybaselog.pyc'>
+requests.packages.urllib3.response : <module 'urllib3.response' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/response.pyc'>
+chardet.logging : None
 signal : <module 'signal' (built-in)>
+requests.packages.idna.intranges : <module 'idna.intranges' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/intranges.pyc'>
+requests.packages.chardet.cp949prober : <module 'chardet.cp949prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/cp949prober.pyc'>
+requests.socket : None
+requests.packages.urllib3.request : <module 'urllib3.request' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/request.pyc'>
+requests.tempfile : None
 pybase.pylog_table : <module 'pybase.pylog_table' from '../pybase/pylog_table.pyc'>
+chardet.langthaimodel : <module 'chardet.langthaimodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langthaimodel.pyc'>
 PIL.math : None
 auto_test.signal : None
 stat : <module 'stat' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/stat.pyc'>
 pybase.MySQLdb : None
 MySQLdb : <module 'MySQLdb' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/MySQLdb/__init__.pyc'>
-email.Generator : <email.LazyImporter object at 0x7fc33e382110>
+email.Generator : <email.LazyImporter object at 0x7f86c795e150>
+requests.packages.chardet.gb2312prober : <module 'chardet.gb2312prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/gb2312prober.pyc'>
 logging.traceback : None
+chardet.gb2312prober : <module 'chardet.gb2312prober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/gb2312prober.pyc'>
+requests.packages.chardet.euckrfreq : <module 'chardet.euckrfreq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/euckrfreq.pyc'>
 tornado.stack_context : <module 'tornado.stack_context' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/stack_context.pyc'>
 _multiprocessing : <module '_multiprocessing' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/lib-dynload/_multiprocessing.x86_64-linux-gnu.so'>
+urllib3.util.queue : <module 'urllib3.util.queue' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/queue.pyc'>
 pybase.time : None
-pysqlite : <module 'pysqlite' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pysqlite.py'>
+tqdm.atexit : None
+pysqlite : <module 'pysqlite' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pysqlite.py'>
+idna.core : <module 'idna.core' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/core.pyc'>
+requests.packages.chardet.big5freq : <module 'chardet.big5freq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/big5freq.pyc'>
+requests.packages.chardet.eucjpprober : <module 'chardet.eucjpprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/eucjpprober.pyc'>
+requests.packages.chardet.langgreekmodel : <module 'chardet.langgreekmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langgreekmodel.pyc'>
 UserDict : <module 'UserDict' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/UserDict.pyc'>
+chardet.big5freq : <module 'chardet.big5freq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/big5freq.pyc'>
 inspect : <module 'inspect' from '/usr/lib/python2.7/inspect.pyc'>
 pybase.cStringIO : None
 tornado.platform.common : <module 'tornado.platform.common' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/platform/common.pyc'>
 pybase.tornado : None
+chardet.codecs : None
 sqlite3.dbapi2 : <module 'sqlite3.dbapi2' from '/usr/lib/python2.7/sqlite3/dbapi2.pyc'>
+urllib3.util.ssl_ : <module 'urllib3.util.ssl_' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/ssl_.pyc'>
 quopri : <module 'quopri' from '/usr/lib/python2.7/quopri.pyc'>
 _functools : <module '_functools' (built-in)>
-email.Iterators : <email.LazyImporter object at 0x7fc33e382190>
+email.Iterators : <email.LazyImporter object at 0x7f86c795e1d0>
 socket : <module 'socket' from '/usr/lib/python2.7/socket.pyc'>
-auto_test.pymodule_test : <module 'auto_test.pymodule_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pymodule_test.pyc'>
-email.Charset : <email.LazyImporter object at 0x7fc33e37afd0>
-auto_test.etc_test : <module 'auto_test.etc_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/etc_test.pyc'>
+chardet.langgreekmodel : <module 'chardet.langgreekmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langgreekmodel.pyc'>
+auto_test.pymodule_test : <module 'auto_test.pymodule_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pymodule_test.pyc'>
+email.Charset : <email.LazyImporter object at 0x7f86c795e050>
+auto_test.etc_test : <module 'auto_test.etc_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/etc_test.pyc'>
 tornado.platform : <module 'tornado.platform' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/platform/__init__.pyc'>
 os : <module 'os' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/os.pyc'>
 marshal : <module 'marshal' (built-in)>
@@ -346,23 +580,38 @@ __future__ : <module '__future__' from '/usr/lib/python2.7/__future__.pyc'>
 curses : <module 'curses' from '/usr/lib/python2.7/curses/__init__.pyc'>
 __builtin__ : <module '__builtin__' (built-in)>
 operator : <module 'operator' (built-in)>
+requests.packages.urllib3.packages.ssl_match_hostname : <module 'urllib3.packages.ssl_match_hostname' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/packages/ssl_match_hostname/__init__.pyc'>
 json.struct : None
 multiprocessing.threading : None
 _socket : <module '_socket' (built-in)>
-email.Utils : <email.LazyImporter object at 0x7fc33e382250>
+email.Utils : <email.LazyImporter object at 0x7f86c795e290>
+urllib3.request : <module 'urllib3.request' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/request.pyc'>
+urllib3.response : <module 'urllib3.response' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/response.pyc'>
 encodings.latin_1 : <module 'encodings.latin_1' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/encodings/latin_1.pyc'>
 Cookie : <module 'Cookie' from '/usr/lib/python2.7/Cookie.pyc'>
+requests.packages.chardet.langhebrewmodel : <module 'chardet.langhebrewmodel' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/langhebrewmodel.pyc'>
+urllib3.util : <module 'urllib3.util' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/__init__.pyc'>
+urllib3._collections : <module 'urllib3._collections' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/_collections.pyc'>
 _warnings : <module '_warnings' (built-in)>
 encodings.__builtin__ : None
-auto_test.pysig_test : <module 'auto_test.pysig_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pysig_test.pyc'>
+auto_test.pysig_test : <module 'auto_test.pysig_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pysig_test.pyc'>
 email.os : None
+requests.compat : <module 'requests.compat' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/compat.pyc'>
+pwd : <module 'pwd' (built-in)>
 sitecustomize : <module 'sitecustomize' from '/usr/lib/python2.7/sitecustomize.pyc'>
 curses.wrapper : <module 'curses.wrapper' from '/usr/lib/python2.7/curses/wrapper.pyc'>
 pybase.commands : None
-auto_test.pylog_test : <module 'auto_test.pylog_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pylog_test.pyc'>
+auto_test.pylog_test : <module 'auto_test.pylog_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pylog_test.pyc'>
 _struct : <module '_struct' (built-in)>
-pyfile : <module 'pyfile' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pyfile.py'>
+pyfile : <module 'pyfile' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pyfile.py'>
+requests.chardet : None
+chardet.hebrewprober : <module 'chardet.hebrewprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/hebrewprober.pyc'>
+requests.packages : <module 'requests.packages' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/packages.pyc'>
+requests.packages.chardet.mbcharsetprober : <module 'chardet.mbcharsetprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/mbcharsetprober.pyc'>
 logging.time : None
+requests.packages.urllib3.contrib.os : None
+requests.struct : None
+requests.contextlib : None
 MySQLdb.release : <module 'MySQLdb.release' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/MySQLdb/release.pyc'>
 logging.warnings : None
 pybase.pyserver : <module 'pybase.pyserver' from '../pybase/pyserver.py'>
@@ -371,20 +620,41 @@ multiprocessing.signal : None
 logging.codecs : None
 _random : <module '_random' (built-in)>
 contextlib : <module 'contextlib' from '/usr/lib/python2.7/contextlib.pyc'>
+requests.packages.urllib3.packages.six.moves.urllib : <module 'urllib3.packages.six.moves.urllib' (built-in)>
 concurrent.futures.thread : <module 'concurrent.futures.thread' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/concurrent/futures/thread.pyc'>
+chardet.jisfreq : <module 'chardet.jisfreq' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/jisfreq.pyc'>
+requests.packages.chardet.escprober : <module 'chardet.escprober' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/chardet/escprober.pyc'>
+urllib3.packages.six.moves.urllib.parse : <module 'urllib3.packages.six.moves.urllib_parse' (built-in)>
+requests.threading : None
+grp : <module 'grp' (built-in)>
+tqdm.sys : None
 pybase.subprocess : None
+tqdm._version : <module 'tqdm._version' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tqdm/_version.pyc'>
+tqdm._tqdm_gui : <module 'tqdm._tqdm_gui' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tqdm/_tqdm_gui.pyc'>
+requests.packages.urllib3.util.timeout : <module 'urllib3.util.timeout' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/util/timeout.pyc'>
 email.warnings : None
+requests.packages.urllib3.poolmanager : <module 'urllib3.poolmanager' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/poolmanager.pyc'>
+tqdm : <module 'tqdm' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tqdm/__init__.pyc'>
 genericpath : <module 'genericpath' from '/home/liuzy/.pybase_env/py2env/lib/python2.7/genericpath.pyc'>
 imp : <module 'imp' (built-in)>
 tornado.speedups : <module 'tornado.speedups' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/speedups.so'>
+urllib3 : <module 'urllib3' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/__init__.pyc'>
 urllib2 : <module 'urllib2' from '/usr/lib/python2.7/urllib2.pyc'>
 concurrent : <module 'concurrent' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/concurrent/__init__.pyc'>
-email.Encoders : <email.LazyImporter object at 0x7fc33e382050>
+email.Encoders : <email.LazyImporter object at 0x7f86c795e090>
+requests.certs : <module 'requests.certs' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/requests/certs.pyc'>
+requests.calendar : None
 MySQLdb.constants : <module 'MySQLdb.constants' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/MySQLdb/constants/__init__.pyc'>
+urllib3.packages.ssl_match_hostname : <module 'urllib3.packages.ssl_match_hostname' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/urllib3/packages/ssl_match_hostname/__init__.pyc'>
+requests.packages.idna.package_data : <module 'idna.package_data' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/package_data.pyc'>
 pybase.pysql : <module 'pybase.pysql' from '../pybase/pysql.pyc'>
 pybase.pyjson : <module 'pybase.pyjson' from '../pybase/pyjson.py'>
 encodings.unicodedata : None
+urllib3.util.Queue : None
+idna.bisect : None
 sqlite3._sqlite3 : None
 time : <module 'time' (built-in)>
 tornado.netutil : <module 'tornado.netutil' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/netutil.pyc'>
+idna : <module 'idna' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/idna/__init__.pyc'>
+requests.packages.idna.unicodedata : None
 tornado.ioloop : <module 'tornado.ioloop' from '/home/liuzy/.pybase_env/py2env/local/lib/python2.7/site-packages/tornado/ioloop.pyc'>

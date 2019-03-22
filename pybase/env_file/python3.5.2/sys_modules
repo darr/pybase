@@ -1,318 +1,495 @@
-quopri : <module 'quopri' from '/usr/lib/python3.5/quopri.py'>
-sitecustomize : <module 'sitecustomize' from '/usr/lib/python3.5/sitecustomize.py'>
-auto_test.pyre_test : <module 'auto_test.pyre_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyre_test.py'>
-tornado.httpclient : <module 'tornado.httpclient' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/httpclient.py'>
-_codecs : <module '_codecs' (built-in)>
-tornado.util : <module 'tornado.util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/util.py'>
-collections.abc : <module 'collections.abc' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/collections/abc.py'>
-stat : <module 'stat' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/stat.py'>
-auto_test.pybiology_test : <module 'auto_test.pybiology_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pybiology_test.py'>
-pymysql._compat : <module 'pymysql._compat' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/_compat.py'>
-shutil : <module 'shutil' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/shutil.py'>
-asyncio.events : <module 'asyncio.events' from '/usr/lib/python3.5/asyncio/events.py'>
-tokenize : <module 'tokenize' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/tokenize.py'>
-fnmatch : <module 'fnmatch' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/fnmatch.py'>
-pymysql.err : <module 'pymysql.err' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/err.py'>
-pybase.pycount : <module 'pybase.pycount' from '../pybase/pycount.py'>
-pybase.pydb : <module 'pybase.pydb' from '../pybase/pydb.py'>
-auto_test.pylinux_test : <module 'auto_test.pylinux_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pylinux_test.py'>
-sqlite3.dbapi2 : <module 'sqlite3.dbapi2' from '/usr/lib/python3.5/sqlite3/dbapi2.py'>
-_signal : <module '_signal' (built-in)>
-asyncio.base_events : <module 'asyncio.base_events' from '/usr/lib/python3.5/asyncio/base_events.py'>
-io : <module 'io' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/io.py'>
-struct : <module 'struct' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/struct.py'>
-_string : <module '_string' (built-in)>
-atexit : <module 'atexit' (built-in)>
-tornado.platform.common : <module 'tornado.platform.common' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/platform/common.py'>
-auto_test.pymodule_test : <module 'auto_test.pymodule_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pymodule_test.py'>
-curses : <module 'curses' from '/usr/lib/python3.5/curses/__init__.py'>
-tornado.process : <module 'tornado.process' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/process.py'>
-pybase.pytime : <module 'pybase.pytime' from '../pybase/pytime.py'>
-marshal : <module 'marshal' (built-in)>
-operator : <module 'operator' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/operator.py'>
-tornado.http1connection : <module 'tornado.http1connection' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/http1connection.py'>
-pwd : <module 'pwd' (built-in)>
-_imp : <module '_imp' (built-in)>
-email.errors : <module 'email.errors' from '/usr/lib/python3.5/email/errors.py'>
-_compression : <module '_compression' from '/usr/lib/python3.5/_compression.py'>
-stringprep : <module 'stringprep' from '/usr/lib/python3.5/stringprep.py'>
-collections : <module 'collections' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/collections/__init__.py'>
-errno : <module 'errno' (built-in)>
-PIL._version : <module 'PIL._version' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/_version.py'>
-socket : <module 'socket' from '/usr/lib/python3.5/socket.py'>
-contextlib : <module 'contextlib' from '/usr/lib/python3.5/contextlib.py'>
-auto_test.pyjson_test : <module 'auto_test.pyjson_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyjson_test.py'>
-multiprocessing.connection : <module 'multiprocessing.connection' from '/usr/lib/python3.5/multiprocessing/connection.py'>
-pybase.etc : <module 'pybase.etc' from '../pybase/etc.py'>
-_socket : <module '_socket' (built-in)>
-_struct : <module '_struct' (built-in)>
-multiprocessing.context : <module 'multiprocessing.context' from '/usr/lib/python3.5/multiprocessing/context.py'>
-asyncio.protocols : <module 'asyncio.protocols' from '/usr/lib/python3.5/asyncio/protocols.py'>
-typing.re : <class 'typing.re'>
-tornado.escape : <module 'tornado.escape' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/escape.py'>
-pymysql.constants.FLAG : <module 'pymysql.constants.FLAG' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/FLAG.py'>
-pymysql.protocol : <module 'pymysql.protocol' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/protocol.py'>
-tornado.httpserver : <module 'tornado.httpserver' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/httpserver.py'>
-auto_test.pylog_table_test : <module 'auto_test.pylog_table_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pylog_table_test.py'>
-pymysql.optionfile : <module 'pymysql.optionfile' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/optionfile.py'>
-_curses : <module '_curses' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_curses.cpython-35m-x86_64-linux-gnu.so'>
-asyncio.sslproto : <module 'asyncio.sslproto' from '/usr/lib/python3.5/asyncio/sslproto.py'>
-logging.handlers : <module 'logging.handlers' from '/usr/lib/python3.5/logging/handlers.py'>
-pybase.pyprocess : <module 'pybase.pyprocess' from '../pybase/pyprocess.py'>
-auto_test.pylog_test : <module 'auto_test.pylog_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pylog_test.py'>
-tornado.httputil : <module 'tornado.httputil' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/httputil.py'>
-PIL._util : <module 'PIL._util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/_util.py'>
-asyncio.subprocess : <module 'asyncio.subprocess' from '/usr/lib/python3.5/asyncio/subprocess.py'>
-auto_test.pyserver_test : <module 'auto_test.pyserver_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyserver_test.py'>
-array : <module 'array' (built-in)>
-importlib.machinery : <module 'importlib.machinery' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/importlib/machinery.py'>
-auto_test : <module 'auto_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/__init__.py'>
-tempfile : <module 'tempfile' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/tempfile.py'>
-math : <module 'math' (built-in)>
-concurrent.futures.process : <module 'concurrent.futures.process' from '/usr/lib/python3.5/concurrent/futures/process.py'>
-_bootlocale : <module '_bootlocale' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/_bootlocale.py'>
-pybase.pydec_encry : <module 'pybase.pydec_encry' from '../pybase/pydec_encry.py'>
-encodings.latin_1 : <module 'encodings.latin_1' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/latin_1.py'>
-string : <module 'string' from '/usr/lib/python3.5/string.py'>
-selectors : <module 'selectors' from '/usr/lib/python3.5/selectors.py'>
-typing.io : <class 'typing.io'>
-textwrap : <module 'textwrap' from '/usr/lib/python3.5/textwrap.py'>
-_frozen_importlib_external : <module 'importlib._bootstrap_external' (frozen)>
-_decimal : <module '_decimal' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_decimal.cpython-35m-x86_64-linux-gnu.so'>
-etc : <module 'etc' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/etc.py'>
-http : <module 'http' from '/usr/lib/python3.5/http/__init__.py'>
-pybase.pysig : <module 'pybase.pysig' from '../pybase/pysig.py'>
-pybase.pypickle : <module 'pybase.pypickle' from '../pybase/pypickle.py'>
-asyncio.locks : <module 'asyncio.locks' from '/usr/lib/python3.5/asyncio/locks.py'>
-pymysql.constants.SERVER_STATUS : <module 'pymysql.constants.SERVER_STATUS' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/SERVER_STATUS.py'>
-auto_test.pyobject_test : <module 'auto_test.pyobject_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyobject_test.py'>
-multiprocessing.util : <module 'multiprocessing.util' from '/usr/lib/python3.5/multiprocessing/util.py'>
-enum : <module 'enum' from '/usr/lib/python3.5/enum.py'>
-__future__ : <module '__future__' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/__future__.py'>
-email._parseaddr : <module 'email._parseaddr' from '/usr/lib/python3.5/email/_parseaddr.py'>
-platform : <module 'platform' from '/usr/lib/python3.5/platform.py'>
-PIL._imaging : <module 'PIL._imaging' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/_imaging.cpython-35m-x86_64-linux-gnu.so'>
-tornado.platform.posix : <module 'tornado.platform.posix' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/platform/posix.py'>
-auto_test.pymysqldb_test : <module 'auto_test.pymysqldb_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pymysqldb_test.py'>
-email : <module 'email' from '/usr/lib/python3.5/email/__init__.py'>
-json : <module 'json' from '/usr/lib/python3.5/json/__init__.py'>
-signal : <module 'signal' from '/usr/lib/python3.5/signal.py'>
-_heapq : <module '_heapq' (built-in)>
-sre_compile : <module 'sre_compile' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/sre_compile.py'>
-calendar : <module 'calendar' from '/usr/lib/python3.5/calendar.py'>
-numbers : <module 'numbers' from '/usr/lib/python3.5/numbers.py'>
-pymysql.constants.FIELD_TYPE : <module 'pymysql.constants.FIELD_TYPE' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/FIELD_TYPE.py'>
-encodings : <module 'encodings' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/__init__.py'>
-tarfile : <module 'tarfile' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/tarfile.py'>
-configparser : <module 'configparser' from '/usr/lib/python3.5/configparser.py'>
-PIL.Image : <module 'PIL.Image' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/Image.py'>
-uu : <module 'uu' from '/usr/lib/python3.5/uu.py'>
-_collections_abc : <module '_collections_abc' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/_collections_abc.py'>
-random : <module 'random' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/random.py'>
-logging : <module 'logging' from '/usr/lib/python3.5/logging/__init__.py'>
-pybase.pysqlite : <module 'pybase.pysqlite' from '../pybase/pysqlite.py'>
-_opcode : <module '_opcode' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_opcode.cpython-35m-x86_64-linux-gnu.so'>
-email.iterators : <module 'email.iterators' from '/usr/lib/python3.5/email/iterators.py'>
-encodings.utf_8 : <module 'encodings.utf_8' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/utf_8.py'>
-tornado.platform.interface : <module 'tornado.platform.interface' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/platform/interface.py'>
-asyncio.base_subprocess : <module 'asyncio.base_subprocess' from '/usr/lib/python3.5/asyncio/base_subprocess.py'>
-auto_test.pyimg_test : <module 'auto_test.pyimg_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyimg_test.py'>
-threading : <module 'threading' from '/usr/lib/python3.5/threading.py'>
-posix : <module 'posix' (built-in)>
-_io : <module 'io' (built-in)>
-pybase.pythread : <module 'pybase.pythread' from '../pybase/pythread.py'>
-_posixsubprocess : <module '_posixsubprocess' (built-in)>
-lzma : <module 'lzma' from '/usr/lib/python3.5/lzma.py'>
-asyncio.coroutines : <module 'asyncio.coroutines' from '/usr/lib/python3.5/asyncio/coroutines.py'>
-keyword : <module 'keyword' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/keyword.py'>
-_bisect : <module '_bisect' (built-in)>
-unicodedata : <module 'unicodedata' (built-in)>
-pybase.pyjson : <module 'pybase.pyjson' from '../pybase/pyjson.py'>
-encodings.aliases : <module 'encodings.aliases' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/aliases.py'>
-urllib : <module 'urllib' from '/usr/lib/python3.5/urllib/__init__.py'>
-_collections : <module '_collections' (built-in)>
-types : <module 'types' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/types.py'>
-token : <module 'token' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/token.py'>
-pybase.pyhttp : <module 'pybase.pyhttp' from '../pybase/pyhttp.py'>
-pybase.pyobject : <module 'pybase.pyobject' from '../pybase/pyobject.py'>
-re : <module 're' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/re.py'>
-_warnings : <module '_warnings' (built-in)>
-_functools : <module '_functools' (built-in)>
-auto_test.pythread_test : <module 'auto_test.pythread_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pythread_test.py'>
-pybase.pydbbase : <module 'pybase.pydbbase' from '../pybase/pydbbase.py'>
-traceback : <module 'traceback' from '/usr/lib/python3.5/traceback.py'>
-importlib._bootstrap : <module 'importlib._bootstrap' (frozen)>
-tornado.concurrent : <module 'tornado.concurrent' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/concurrent.py'>
-pylog : <module 'pylog' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pylog.py'>
-email.encoders : <module 'email.encoders' from '/usr/lib/python3.5/email/encoders.py'>
-_ssl : <module '_ssl' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_ssl.cpython-35m-x86_64-linux-gnu.so'>
-asyncio.streams : <module 'asyncio.streams' from '/usr/lib/python3.5/asyncio/streams.py'>
-importlib : <module 'importlib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/importlib/__init__.py'>
-pybase.pyimg : <module 'pybase.pyimg' from '../pybase/pyimg.py'>
-http.cookies : <module 'http.cookies' from '/usr/lib/python3.5/http/cookies.py'>
-asyncio.selector_events : <module 'asyncio.selector_events' from '/usr/lib/python3.5/asyncio/selector_events.py'>
-pymysql.cursors : <module 'pymysql.cursors' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/cursors.py'>
-pybase : <module 'pybase' from '../pybase/__init__.py'>
-auto_test.pybaselog_test : <module 'auto_test.pybaselog_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pybaselog_test.py'>
-pybase.pylog : <module 'pybase.pylog' from '../pybase/pylog.py'>
-auto_test.pyjson_data_test : <module 'auto_test.pyjson_data_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyjson_data_test.py'>
-opcode : <module 'opcode' from '/usr/lib/python3.5/opcode.py'>
-email._policybase : <module 'email._policybase' from '/usr/lib/python3.5/email/_policybase.py'>
-pymysql.charset : <module 'pymysql.charset' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/charset.py'>
-tornado.stack_context : <module 'tornado.stack_context' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/stack_context.py'>
-binascii : <module 'binascii' (built-in)>
-pybase.pyglobal : <module 'pybase.pyglobal' from '../pybase/pyglobal.py'>
-_sre : <module '_sre' (built-in)>
-auto_test.pysql_test : <module 'auto_test.pysql_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pysql_test.py'>
-pymysql._auth : <module 'pymysql._auth' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/_auth.py'>
-pybase.pylinux : <module 'pybase.pylinux' from '../pybase/pylinux.py'>
-_random : <module '_random' (built-in)>
-asyncio.futures : <module 'asyncio.futures' from '/usr/lib/python3.5/asyncio/futures.py'>
-os.path : <module 'posixpath' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/posixpath.py'>
-json.decoder : <module 'json.decoder' from '/usr/lib/python3.5/json/decoder.py'>
-codecs : <module 'codecs' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/codecs.py'>
-tornado.platform : <module 'tornado.platform' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/platform/__init__.py'>
-email.base64mime : <module 'email.base64mime' from '/usr/lib/python3.5/email/base64mime.py'>
-auto_test.pyabc_test : <module 'auto_test.pyabc_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyabc_test.py'>
-inspect : <module 'inspect' from '/usr/lib/python3.5/inspect.py'>
-ipaddress : <module 'ipaddress' from '/usr/lib/python3.5/ipaddress.py'>
-_lzma : <module '_lzma' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_lzma.cpython-35m-x86_64-linux-gnu.so'>
-auto_test.pyfile_test : <module 'auto_test.pyfile_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyfile_test.py'>
-_weakref : <module '_weakref' (built-in)>
-email.feedparser : <module 'email.feedparser' from '/usr/lib/python3.5/email/feedparser.py'>
-asyncio : <module 'asyncio' from '/usr/lib/python3.5/asyncio/__init__.py'>
-pymysql : <module 'pymysql' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/__init__.py'>
-asyncio.unix_events : <module 'asyncio.unix_events' from '/usr/lib/python3.5/asyncio/unix_events.py'>
-pybase.pysql : <module 'pybase.pysql' from '../pybase/pysql.py'>
-auto_test.pyprocess_test : <module 'auto_test.pyprocess_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyprocess_test.py'>
-heapq : <module 'heapq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/heapq.py'>
-dis : <module 'dis' from '/usr/lib/python3.5/dis.py'>
-time : <module 'time' (built-in)>
-pybase.pymysqldb : <module 'pybase.pymysqldb' from '../pybase/pymysqldb.py'>
-auto_test.pyhttp_test : <module 'auto_test.pyhttp_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pyhttp_test.py'>
-abc : <module 'abc' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/abc.py'>
-sre_constants : <module 'sre_constants' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/sre_constants.py'>
-pybase.pylog_table : <module 'pybase.pylog_table' from '../pybase/pylog_table.py'>
-_hashlib : <module '_hashlib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_hashlib.cpython-35m-x86_64-linux-gnu.so'>
-json.encoder : <module 'json.encoder' from '/usr/lib/python3.5/json/encoder.py'>
-sqlite3 : <module 'sqlite3' from '/usr/lib/python3.5/sqlite3/__init__.py'>
-weakref : <module 'weakref' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/weakref.py'>
-pybase.pyre : <module 'pybase.pyre' from '../pybase/pyre.py'>
-urllib.error : <module 'urllib.error' from '/usr/lib/python3.5/urllib/error.py'>
-ssl : <module 'ssl' from '/usr/lib/python3.5/ssl.py'>
-_bz2 : <module '_bz2' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_bz2.cpython-35m-x86_64-linux-gnu.so'>
-copy : <module 'copy' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/copy.py'>
-auto_test.pysig_test : <module 'auto_test.pysig_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pysig_test.py'>
-genericpath : <module 'genericpath' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/genericpath.py'>
-PIL.ImageMode : <module 'PIL.ImageMode' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/ImageMode.py'>
-_ast : <module '_ast' (built-in)>
-auto_test.pydb_test : <module 'auto_test.pydb_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pydb_test.py'>
-html : <module 'html' from '/usr/lib/python3.5/html/__init__.py'>
-multiprocessing : <module 'multiprocessing' from '/usr/lib/python3.5/multiprocessing/__init__.py'>
-_datetime : <module '_datetime' (built-in)>
-ast : <module 'ast' from '/usr/lib/python3.5/ast.py'>
-bz2 : <module 'bz2' from '/usr/lib/python3.5/bz2.py'>
-PIL._binary : <module 'PIL._binary' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/_binary.py'>
-fcntl : <module 'fcntl' (built-in)>
-email.parser : <module 'email.parser' from '/usr/lib/python3.5/email/parser.py'>
-multiprocessing.reduction : <module 'multiprocessing.reduction' from '/usr/lib/python3.5/multiprocessing/reduction.py'>
-hashlib : <module 'hashlib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/hashlib.py'>
-builtins : <module 'builtins' (built-in)>
-pybase.pymodule : <module 'pybase.pymodule' from '../pybase/pymodule.py'>
-tornado.ioloop : <module 'tornado.ioloop' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/ioloop.py'>
-pybase.pyfile : <module 'pybase.pyfile' from '../pybase/pyfile.py'>
-pymysql.converters : <module 'pymysql.converters' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/converters.py'>
-_frozen_importlib : <module 'importlib._bootstrap' (frozen)>
-email._encoded_words : <module 'email._encoded_words' from '/usr/lib/python3.5/email/_encoded_words.py'>
-zipimport : <module 'zipimport' (built-in)>
-pybase.pyserver : <module 'pybase.pyserver' from '../pybase/pyserver.py'>
-tornado.log : <module 'tornado.log' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/log.py'>
-tornado.gen : <module 'tornado.gen' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/gen.py'>
-zlib : <module 'zlib' (built-in)>
-pymysql.util : <module 'pymysql.util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/util.py'>
-sre_parse : <module 'sre_parse' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/sre_parse.py'>
-email.header : <module 'email.header' from '/usr/lib/python3.5/email/header.py'>
-email.message : <module 'email.message' from '/usr/lib/python3.5/email/message.py'>
-pathlib : <module 'pathlib' from '/usr/lib/python3.5/pathlib.py'>
-html.entities : <module 'html.entities' from '/usr/lib/python3.5/html/entities.py'>
-urllib.response : <module 'urllib.response' from '/usr/lib/python3.5/urllib/response.py'>
-linecache : <module 'linecache' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/linecache.py'>
-asyncio.constants : <module 'asyncio.constants' from '/usr/lib/python3.5/asyncio/constants.py'>
-importlib._bootstrap_external : <module 'importlib._bootstrap_external' (frozen)>
-__mp_main__ : <module '__main__' from 'pytest.py'>
-PIL : <module 'PIL' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/__init__.py'>
-email.quoprimime : <module 'email.quoprimime' from '/usr/lib/python3.5/email/quoprimime.py'>
-queue : <module 'queue' from '/usr/lib/python3.5/queue.py'>
-functools : <module 'functools' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/functools.py'>
-reprlib : <module 'reprlib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/reprlib.py'>
-pytest : <module 'pytest' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pytest.py'>
-select : <module 'select' (built-in)>
-auto_test.etc_test : <module 'auto_test.etc_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/etc_test.py'>
-copyreg : <module 'copyreg' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/copyreg.py'>
+requests.packages.chardet.eucjpprober : <module 'chardet.eucjpprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/eucjpprober.py'>
 ntpath : <module 'ntpath' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/ntpath.py'>
-pybase.pyjson_data : <module 'pybase.pyjson_data' from '../pybase/pyjson_data.py'>
-concurrent.futures : <module 'concurrent.futures' from '/usr/lib/python3.5/concurrent/futures/__init__.py'>
-asyncio.tasks : <module 'asyncio.tasks' from '/usr/lib/python3.5/asyncio/tasks.py'>
-_locale : <module '_locale' (built-in)>
-tornado.netutil : <module 'tornado.netutil' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/netutil.py'>
-_stat : <module '_stat' (built-in)>
-auto_test.pydec_encry_test : <module 'auto_test.pydec_encry_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pydec_encry_test.py'>
-auto_test.pypickle_test : <module 'auto_test.pypickle_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pypickle_test.py'>
-asyncio.log : <module 'asyncio.log' from '/usr/lib/python3.5/asyncio/log.py'>
-concurrent.futures.thread : <module 'concurrent.futures.thread' from '/usr/lib/python3.5/concurrent/futures/thread.py'>
-_sqlite3 : <module '_sqlite3' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_sqlite3.cpython-35m-x86_64-linux-gnu.so'>
-subprocess : <module 'subprocess' from '/usr/lib/python3.5/subprocess.py'>
-pymysql.constants.CR : <module 'pymysql.constants.CR' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/CR.py'>
-locale : <module 'locale' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/locale.py'>
-_operator : <module '_operator' (built-in)>
-pyDes : <module 'pyDes' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pyDes.py'>
-getpass : <module 'getpass' from '/usr/lib/python3.5/getpass.py'>
-pymysql.constants.CLIENT : <module 'pymysql.constants.CLIENT' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/CLIENT.py'>
-http.client : <module 'http.client' from '/usr/lib/python3.5/http/client.py'>
-grp : <module 'grp' (built-in)>
-site : <module 'site' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site.py'>
-_compat_pickle : <module '_compat_pickle' from '/usr/lib/python3.5/_compat_pickle.py'>
-auto_test.pytime_test : <module 'auto_test.pytime_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pytime_test.py'>
+uu : <module 'uu' from '/usr/lib/python3.5/uu.py'>
+requests.packages.chardet.langthaimodel : <module 'chardet.langthaimodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langthaimodel.py'>
+urllib3.packages.six.moves : <module 'urllib3.packages.six.moves' (<urllib3.packages.six._SixMetaPathImporter object at 0x7f1c9e8f7e48>)>
+requests.packages.urllib3.util.wait : <module 'urllib3.util.wait' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/wait.py'>
+tornado.platform.posix : <module 'tornado.platform.posix' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/platform/posix.py'>
+pymysql.cursors : <module 'pymysql.cursors' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/cursors.py'>
 tornado.iostream : <module 'tornado.iostream' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/iostream.py'>
-pickle : <module 'pickle' from '/usr/lib/python3.5/pickle.py'>
-termios : <module 'termios' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/termios.cpython-35m-x86_64-linux-gnu.so'>
-concurrent : <module 'concurrent' from '/usr/lib/python3.5/concurrent/__init__.py'>
-pybase.pybaselog : <module 'pybase.pybaselog' from '../pybase/pybaselog.py'>
-posixpath : <module 'posixpath' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/posixpath.py'>
-_multiprocessing : <module '_multiprocessing' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_multiprocessing.cpython-35m-x86_64-linux-gnu.so'>
-decimal : <module 'decimal' from '/usr/lib/python3.5/decimal.py'>
-pymysql.connections : <module 'pymysql.connections' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/connections.py'>
-itertools : <module 'itertools' (built-in)>
-tornado.tcpserver : <module 'tornado.tcpserver' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/tcpserver.py'>
-tornado : <module 'tornado' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/__init__.py'>
-concurrent.futures._base : <module 'concurrent.futures._base' from '/usr/lib/python3.5/concurrent/futures/_base.py'>
-asyncio.compat : <module 'asyncio.compat' from '/usr/lib/python3.5/asyncio/compat.py'>
-json.scanner : <module 'json.scanner' from '/usr/lib/python3.5/json/scanner.py'>
-email.charset : <module 'email.charset' from '/usr/lib/python3.5/email/charset.py'>
-warnings : <module 'warnings' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/warnings.py'>
-pymysql.constants.COMMAND : <module 'pymysql.constants.COMMAND' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/COMMAND.py'>
-asyncio.queues : <module 'asyncio.queues' from '/usr/lib/python3.5/asyncio/queues.py'>
-tornado.platform.auto : <module 'tornado.platform.auto' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/platform/auto.py'>
-_weakrefset : <module '_weakrefset' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/_weakrefset.py'>
-urllib.request : <module 'urllib.request' from '/usr/lib/python3.5/urllib/request.py'>
-pybase.pyDes : <module 'pybase.pyDes' from '../pybase/pyDes.py'>
-os : <module 'os' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/os.py'>
-typing : <module 'typing' from '/usr/lib/python3.5/typing.py'>
-datetime : <module 'datetime' from '/usr/lib/python3.5/datetime.py'>
-pymysql.times : <module 'pymysql.times' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/times.py'>
-base64 : <module 'base64' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/base64.py'>
-_thread : <module '_thread' (built-in)>
-multiprocessing.process : <module 'multiprocessing.process' from '/usr/lib/python3.5/multiprocessing/process.py'>
-__main__ : <module '__main__' from 'pytest.py'>
-auto_test.pysqlite_test : <module 'auto_test.pysqlite_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/auto_test/pysqlite_test.py'>
-pymysql.constants : <module 'pymysql.constants' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/__init__.py'>
-_json : <module '_json' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_json.cpython-35m-x86_64-linux-gnu.so'>
-pymysql.constants.ER : <module 'pymysql.constants.ER' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/ER.py'>
+requests.packages.chardet.mbcsgroupprober : <module 'chardet.mbcsgroupprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/mbcsgroupprober.py'>
+chardet.latin1prober : <module 'chardet.latin1prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/latin1prober.py'>
+requests.packages.chardet.charsetgroupprober : <module 'chardet.charsetgroupprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/charsetgroupprober.py'>
+requests.packages.chardet.langgreekmodel : <module 'chardet.langgreekmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langgreekmodel.py'>
 urllib.parse : <module 'urllib.parse' from '/usr/lib/python3.5/urllib/parse.py'>
-pylinux : <module 'pylinux' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.0/pybase/pylinux.py'>
-bisect : <module 'bisect' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/bisect.py'>
+subprocess : <module 'subprocess' from '/usr/lib/python3.5/subprocess.py'>
+requests : <module 'requests' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/__init__.py'>
+_compression : <module '_compression' from '/usr/lib/python3.5/_compression.py'>
+multiprocessing.util : <module 'multiprocessing.util' from '/usr/lib/python3.5/multiprocessing/util.py'>
+tokenize : <module 'tokenize' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/tokenize.py'>
+pymysql.constants.FLAG : <module 'pymysql.constants.FLAG' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/FLAG.py'>
+idna : <module 'idna' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/__init__.py'>
+_hashlib : <module '_hashlib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_hashlib.cpython-35m-x86_64-linux-gnu.so'>
+requests.packages.urllib3.util.connection : <module 'urllib3.util.connection' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/connection.py'>
+asyncio.compat : <module 'asyncio.compat' from '/usr/lib/python3.5/asyncio/compat.py'>
+PIL._imaging : <module 'PIL._imaging' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/_imaging.cpython-35m-x86_64-linux-gnu.so'>
+asyncio.unix_events : <module 'asyncio.unix_events' from '/usr/lib/python3.5/asyncio/unix_events.py'>
+sitecustomize : <module 'sitecustomize' from '/usr/lib/python3.5/sitecustomize.py'>
+pymysql.charset : <module 'pymysql.charset' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/charset.py'>
+auto_test.pymodule_test : <module 'auto_test.pymodule_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pymodule_test.py'>
+requests.status_codes : <module 'requests.status_codes' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/status_codes.py'>
+pybase.pyserver : <module 'pybase.pyserver' from '../pybase/pyserver.py'>
+concurrent.futures : <module 'concurrent.futures' from '/usr/lib/python3.5/concurrent/futures/__init__.py'>
+_weakrefset : <module '_weakrefset' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/_weakrefset.py'>
+urllib3.util.queue : <module 'urllib3.util.queue' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/queue.py'>
+email.iterators : <module 'email.iterators' from '/usr/lib/python3.5/email/iterators.py'>
+pybase.pydbbase : <module 'pybase.pydbbase' from '../pybase/pydbbase.py'>
+pymysql.constants.COMMAND : <module 'pymysql.constants.COMMAND' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/COMMAND.py'>
+pybase.pyre : <module 'pybase.pyre' from '../pybase/pyre.py'>
+chardet.eucjpprober : <module 'chardet.eucjpprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/eucjpprober.py'>
+multiprocessing : <module 'multiprocessing' from '/usr/lib/python3.5/multiprocessing/__init__.py'>
+auto_test.pyabc_test : <module 'auto_test.pyabc_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyabc_test.py'>
+auto_test.pylog_table_test : <module 'auto_test.pylog_table_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pylog_table_test.py'>
+pybase.pylog_table : <module 'pybase.pylog_table' from '../pybase/pylog_table.py'>
+auto_test.pyjson_data_test : <module 'auto_test.pyjson_data_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyjson_data_test.py'>
+asyncio.base_subprocess : <module 'asyncio.base_subprocess' from '/usr/lib/python3.5/asyncio/base_subprocess.py'>
+chardet.charsetgroupprober : <module 'chardet.charsetgroupprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/charsetgroupprober.py'>
+grp : <module 'grp' (built-in)>
+urllib3.response : <module 'urllib3.response' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/response.py'>
+errno : <module 'errno' (built-in)>
+requests.packages.chardet.sbcsgroupprober : <module 'chardet.sbcsgroupprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/sbcsgroupprober.py'>
+_signal : <module '_signal' (built-in)>
+requests.packages.idna.idnadata : <module 'idna.idnadata' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/idnadata.py'>
+socket : <module 'socket' from '/usr/lib/python3.5/socket.py'>
+requests.packages.chardet : <module 'chardet' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/__init__.py'>
+requests.packages.urllib3.util.retry : <module 'urllib3.util.retry' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/retry.py'>
+urllib3.util.wait : <module 'urllib3.util.wait' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/wait.py'>
+concurrent.futures._base : <module 'concurrent.futures._base' from '/usr/lib/python3.5/concurrent/futures/_base.py'>
+_decimal : <module '_decimal' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_decimal.cpython-35m-x86_64-linux-gnu.so'>
+linecache : <module 'linecache' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/linecache.py'>
+posix : <module 'posix' (built-in)>
+auto_test.pyobject_test : <module 'auto_test.pyobject_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyobject_test.py'>
+locale : <module 'locale' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/locale.py'>
+_warnings : <module '_warnings' (built-in)>
+configparser : <module 'configparser' from '/usr/lib/python3.5/configparser.py'>
+idna.core : <module 'idna.core' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/core.py'>
+__mp_main__ : <module '__main__' from 'pytest.py'>
+auto_test.pyimg_test : <module 'auto_test.pyimg_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyimg_test.py'>
+_collections : <module '_collections' (built-in)>
+textwrap : <module 'textwrap' from '/usr/lib/python3.5/textwrap.py'>
+_datetime : <module '_datetime' (built-in)>
+typing : <module 'typing' from '/usr/lib/python3.5/typing.py'>
+requests.packages.urllib3.packages.six.moves : <module 'urllib3.packages.six.moves' (<urllib3.packages.six._SixMetaPathImporter object at 0x7f1c9e8f7e48>)>
+concurrent.futures.thread : <module 'concurrent.futures.thread' from '/usr/lib/python3.5/concurrent/futures/thread.py'>
+tornado.platform.auto : <module 'tornado.platform.auto' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/platform/auto.py'>
+requests.packages.chardet.version : <module 'chardet.version' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/version.py'>
+genericpath : <module 'genericpath' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/genericpath.py'>
+requests.packages.chardet.escsm : <module 'chardet.escsm' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/escsm.py'>
+_struct : <module '_struct' (built-in)>
+pybase.pycount : <module 'pybase.pycount' from '../pybase/pycount.py'>
+urllib : <module 'urllib' from '/usr/lib/python3.5/urllib/__init__.py'>
+importlib.util : <module 'importlib.util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/importlib/util.py'>
+auto_test.pyhttp_test : <module 'auto_test.pyhttp_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyhttp_test.py'>
+_opcode : <module '_opcode' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_opcode.cpython-35m-x86_64-linux-gnu.so'>
+pybase.etc : <module 'pybase.etc' from '../pybase/etc.py'>
+mimetypes : <module 'mimetypes' from '/usr/lib/python3.5/mimetypes.py'>
+chardet.sbcharsetprober : <module 'chardet.sbcharsetprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/sbcharsetprober.py'>
+_json : <module '_json' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_json.cpython-35m-x86_64-linux-gnu.so'>
+_sqlite3 : <module '_sqlite3' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_sqlite3.cpython-35m-x86_64-linux-gnu.so'>
+pwd : <module 'pwd' (built-in)>
+pylog : <module 'pylog' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pylog.py'>
+_string : <module '_string' (built-in)>
+http.cookies : <module 'http.cookies' from '/usr/lib/python3.5/http/cookies.py'>
+stat : <module 'stat' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/stat.py'>
+http.client : <module 'http.client' from '/usr/lib/python3.5/http/client.py'>
+email.errors : <module 'email.errors' from '/usr/lib/python3.5/email/errors.py'>
+tornado.concurrent : <module 'tornado.concurrent' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/concurrent.py'>
+requests.packages.urllib3.util.request : <module 'urllib3.util.request' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/request.py'>
+auto_test.pyserver_test : <module 'auto_test.pyserver_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyserver_test.py'>
+pymysql.constants.ER : <module 'pymysql.constants.ER' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/ER.py'>
+pymysql.converters : <module 'pymysql.converters' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/converters.py'>
 sys : <module 'sys' (built-in)>
-asyncio.transports : <module 'asyncio.transports' from '/usr/lib/python3.5/asyncio/transports.py'>
-encodings.idna : <module 'encodings.idna' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/idna.py'>
-email.utils : <module 'email.utils' from '/usr/lib/python3.5/email/utils.py'>
+keyword : <module 'keyword' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/keyword.py'>
+pathlib : <module 'pathlib' from '/usr/lib/python3.5/pathlib.py'>
+chardet.charsetprober : <module 'chardet.charsetprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/charsetprober.py'>
+requests.packages.chardet.jisfreq : <module 'chardet.jisfreq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/jisfreq.py'>
+encodings.aliases : <module 'encodings.aliases' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/aliases.py'>
+multiprocessing.connection : <module 'multiprocessing.connection' from '/usr/lib/python3.5/multiprocessing/connection.py'>
+urllib3.poolmanager : <module 'urllib3.poolmanager' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/poolmanager.py'>
+html.entities : <module 'html.entities' from '/usr/lib/python3.5/html/entities.py'>
+requests.packages.urllib3.fields : <module 'urllib3.fields' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/fields.py'>
+requests.sessions : <module 'requests.sessions' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/sessions.py'>
+pybase.pyglobal : <module 'pybase.pyglobal' from '../pybase/pyglobal.py'>
+requests.utils : <module 'requests.utils' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/utils.py'>
+asyncio.sslproto : <module 'asyncio.sslproto' from '/usr/lib/python3.5/asyncio/sslproto.py'>
+requests.certs : <module 'requests.certs' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/certs.py'>
+requests.packages.urllib3.exceptions : <module 'urllib3.exceptions' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/exceptions.py'>
+urllib3.util : <module 'urllib3.util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/__init__.py'>
+pymysql : <module 'pymysql' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/__init__.py'>
+email.encoders : <module 'email.encoders' from '/usr/lib/python3.5/email/encoders.py'>
+urllib3.util.url : <module 'urllib3.util.url' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/url.py'>
+requests.packages.idna.package_data : <module 'idna.package_data' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/package_data.py'>
+pymysql.constants.SERVER_STATUS : <module 'pymysql.constants.SERVER_STATUS' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/SERVER_STATUS.py'>
+string : <module 'string' from '/usr/lib/python3.5/string.py'>
+_ssl : <module '_ssl' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_ssl.cpython-35m-x86_64-linux-gnu.so'>
+threading : <module 'threading' from '/usr/lib/python3.5/threading.py'>
+auto_test.pyfile_test : <module 'auto_test.pyfile_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyfile_test.py'>
+urllib3.contrib : <module 'urllib3.contrib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/contrib/__init__.py'>
+requests.auth : <module 'requests.auth' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/auth.py'>
+requests.hooks : <module 'requests.hooks' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/hooks.py'>
+chardet.euctwprober : <module 'chardet.euctwprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/euctwprober.py'>
+time : <module 'time' (built-in)>
+ipaddress : <module 'ipaddress' from '/usr/lib/python3.5/ipaddress.py'>
+pymysql.constants.CR : <module 'pymysql.constants.CR' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/CR.py'>
+chardet.version : <module 'chardet.version' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/version.py'>
+requests._internal_utils : <module 'requests._internal_utils' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/_internal_utils.py'>
+requests.packages.idna : <module 'idna' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/__init__.py'>
+logging.handlers : <module 'logging.handlers' from '/usr/lib/python3.5/logging/handlers.py'>
+chardet.sbcsgroupprober : <module 'chardet.sbcsgroupprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/sbcsgroupprober.py'>
+requests.api : <module 'requests.api' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/api.py'>
+auto_test : <module 'auto_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/__init__.py'>
+urllib3.util.retry : <module 'urllib3.util.retry' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/retry.py'>
+requests.packages.chardet.langhebrewmodel : <module 'chardet.langhebrewmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langhebrewmodel.py'>
+decimal : <module 'decimal' from '/usr/lib/python3.5/decimal.py'>
+requests.packages.chardet.jpcntx : <module 'chardet.jpcntx' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/jpcntx.py'>
+pymysql.connections : <module 'pymysql.connections' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/connections.py'>
+importlib.abc : <module 'importlib.abc' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/importlib/abc.py'>
+pymysql.err : <module 'pymysql.err' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/err.py'>
+_posixsubprocess : <module '_posixsubprocess' (built-in)>
+bisect : <module 'bisect' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/bisect.py'>
+sre_compile : <module 'sre_compile' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/sre_compile.py'>
+requests.packages.chardet.gb2312prober : <module 'chardet.gb2312prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/gb2312prober.py'>
+requests.packages : <module 'requests.packages' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/packages.py'>
+pybase.pysqlite : <module 'pybase.pysqlite' from '../pybase/pysqlite.py'>
+_stat : <module '_stat' (built-in)>
+asyncio.queues : <module 'asyncio.queues' from '/usr/lib/python3.5/asyncio/queues.py'>
+email : <module 'email' from '/usr/lib/python3.5/email/__init__.py'>
+importlib.machinery : <module 'importlib.machinery' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/importlib/machinery.py'>
+chardet.mbcsgroupprober : <module 'chardet.mbcsgroupprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/mbcsgroupprober.py'>
+_codecs : <module '_codecs' (built-in)>
+copyreg : <module 'copyreg' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/copyreg.py'>
+platform : <module 'platform' from '/usr/lib/python3.5/platform.py'>
+pymysql._compat : <module 'pymysql._compat' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/_compat.py'>
+requests.cookies : <module 'requests.cookies' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/cookies.py'>
+email.message : <module 'email.message' from '/usr/lib/python3.5/email/message.py'>
+email._encoded_words : <module 'email._encoded_words' from '/usr/lib/python3.5/email/_encoded_words.py'>
+requests.packages.chardet.gb2312freq : <module 'chardet.gb2312freq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/gb2312freq.py'>
+email.base64mime : <module 'email.base64mime' from '/usr/lib/python3.5/email/base64mime.py'>
+pymysql.constants.CLIENT : <module 'pymysql.constants.CLIENT' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/CLIENT.py'>
+requests.packages.urllib3._collections : <module 'urllib3._collections' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/_collections.py'>
+pybase.pysql : <module 'pybase.pysql' from '../pybase/pysql.py'>
+tempfile : <module 'tempfile' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/tempfile.py'>
+asyncio.selector_events : <module 'asyncio.selector_events' from '/usr/lib/python3.5/asyncio/selector_events.py'>
+_frozen_importlib : <module 'importlib._bootstrap' (frozen)>
+multiprocessing.context : <module 'multiprocessing.context' from '/usr/lib/python3.5/multiprocessing/context.py'>
+chardet.mbcharsetprober : <module 'chardet.mbcharsetprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/mbcharsetprober.py'>
+pycache : <module 'pycache' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pycache.py'>
+requests.packages.urllib3.util.queue : <module 'urllib3.util.queue' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/queue.py'>
+chardet.escsm : <module 'chardet.escsm' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/escsm.py'>
+requests.packages.chardet.latin1prober : <module 'chardet.latin1prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/latin1prober.py'>
+quopri : <module 'quopri' from '/usr/lib/python3.5/quopri.py'>
 _pickle : <module '_pickle' (built-in)>
+chardet.mbcssm : <module 'chardet.mbcssm' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/mbcssm.py'>
+asyncio.futures : <module 'asyncio.futures' from '/usr/lib/python3.5/asyncio/futures.py'>
+chardet.langhebrewmodel : <module 'chardet.langhebrewmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langhebrewmodel.py'>
+pymysql.times : <module 'pymysql.times' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/times.py'>
+_heapq : <module '_heapq' (built-in)>
+chardet.euckrprober : <module 'chardet.euckrprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/euckrprober.py'>
+_curses : <module '_curses' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_curses.cpython-35m-x86_64-linux-gnu.so'>
+auto_test.pylog_test : <module 'auto_test.pylog_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pylog_test.py'>
+requests.packages.chardet.sjisprober : <module 'chardet.sjisprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/sjisprober.py'>
+stringprep : <module 'stringprep' from '/usr/lib/python3.5/stringprep.py'>
+chardet.big5freq : <module 'chardet.big5freq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/big5freq.py'>
+_random : <module '_random' (built-in)>
+encodings.idna : <module 'encodings.idna' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/idna.py'>
+chardet.escprober : <module 'chardet.escprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/escprober.py'>
+email._parseaddr : <module 'email._parseaddr' from '/usr/lib/python3.5/email/_parseaddr.py'>
+inspect : <module 'inspect' from '/usr/lib/python3.5/inspect.py'>
+_functools : <module '_functools' (built-in)>
+pybase.pyjson : <module 'pybase.pyjson' from '../pybase/pyjson.py'>
+requests.structures : <module 'requests.structures' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/structures.py'>
+requests.packages.chardet.escprober : <module 'chardet.escprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/escprober.py'>
+tornado.tcpserver : <module 'tornado.tcpserver' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/tcpserver.py'>
+os.path : <module 'posixpath' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/posixpath.py'>
+_compat_pickle : <module '_compat_pickle' from '/usr/lib/python3.5/_compat_pickle.py'>
+_imp : <module '_imp' (built-in)>
+requests.packages.chardet.utf8prober : <module 'chardet.utf8prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/utf8prober.py'>
+tqdm._version : <module 'tqdm._version' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tqdm/_version.py'>
+pybase.pyimg : <module 'pybase.pyimg' from '../pybase/pyimg.py'>
+datetime : <module 'datetime' from '/usr/lib/python3.5/datetime.py'>
+asyncio.events : <module 'asyncio.events' from '/usr/lib/python3.5/asyncio/events.py'>
+requests.compat : <module 'requests.compat' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/compat.py'>
+pymysql.constants : <module 'pymysql.constants' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/__init__.py'>
+_io : <module 'io' (built-in)>
+urllib3.packages.ssl_match_hostname : <module 'urllib3.packages.ssl_match_hostname' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/packages/ssl_match_hostname/__init__.py'>
+queue : <module 'queue' from '/usr/lib/python3.5/queue.py'>
+json : <module 'json' from '/usr/lib/python3.5/json/__init__.py'>
+requests.packages.chardet.universaldetector : <module 'chardet.universaldetector' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/universaldetector.py'>
+typing.io : <class 'typing.io'>
+requests.packages.chardet.mbcssm : <module 'chardet.mbcssm' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/mbcssm.py'>
+struct : <module 'struct' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/struct.py'>
+urllib3.util.response : <module 'urllib3.util.response' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/response.py'>
+copy : <module 'copy' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/copy.py'>
+urllib3.contrib._appengine_environ : <module 'urllib3.contrib._appengine_environ' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/contrib/_appengine_environ.py'>
+urllib3 : <module 'urllib3' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/__init__.py'>
+fcntl : <module 'fcntl' (built-in)>
+pymysql._auth : <module 'pymysql._auth' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/_auth.py'>
+auto_test.pybiology_test : <module 'auto_test.pybiology_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pybiology_test.py'>
+signal : <module 'signal' from '/usr/lib/python3.5/signal.py'>
+pybase.pydec_encry : <module 'pybase.pydec_encry' from '../pybase/pydec_encry.py'>
+sqlite3.dbapi2 : <module 'sqlite3.dbapi2' from '/usr/lib/python3.5/sqlite3/dbapi2.py'>
+email.parser : <module 'email.parser' from '/usr/lib/python3.5/email/parser.py'>
+fnmatch : <module 'fnmatch' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/fnmatch.py'>
+tornado.http1connection : <module 'tornado.http1connection' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/http1connection.py'>
+asyncio.locks : <module 'asyncio.locks' from '/usr/lib/python3.5/asyncio/locks.py'>
+hmac : <module 'hmac' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/hmac.py'>
+pybase.pyjson_data : <module 'pybase.pyjson_data' from '../pybase/pyjson_data.py'>
+chardet.langgreekmodel : <module 'chardet.langgreekmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langgreekmodel.py'>
+requests.packages.chardet.euctwprober : <module 'chardet.euctwprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/euctwprober.py'>
+urllib3.packages.six.moves.http_client : <module 'http.client' from '/usr/lib/python3.5/http/client.py'>
+urllib3.packages.six.moves.urllib.parse : <module 'urllib3.packages.six.moves.urllib.parse' (<urllib3.packages.six._SixMetaPathImporter object at 0x7f1c9e8f7e48>)>
+pybase.pyobject : <module 'pybase.pyobject' from '../pybase/pyobject.py'>
+requests.packages.urllib3.request : <module 'urllib3.request' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/request.py'>
+urllib3.util.ssl_ : <module 'urllib3.util.ssl_' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/ssl_.py'>
+tornado.log : <module 'tornado.log' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/log.py'>
+_bz2 : <module '_bz2' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_bz2.cpython-35m-x86_64-linux-gnu.so'>
+requests.packages.urllib3 : <module 'urllib3' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/__init__.py'>
+requests.packages.urllib3.packages.six.moves.http_client : <module 'http.client' from '/usr/lib/python3.5/http/client.py'>
+chardet : <module 'chardet' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/__init__.py'>
+etc : <module 'etc' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/etc.py'>
+collections : <module 'collections' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/collections/__init__.py'>
+array : <module 'array' (built-in)>
+enum : <module 'enum' from '/usr/lib/python3.5/enum.py'>
+pybase.pypickle : <module 'pybase.pypickle' from '../pybase/pypickle.py'>
+tornado.httpclient : <module 'tornado.httpclient' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/httpclient.py'>
+html : <module 'html' from '/usr/lib/python3.5/html/__init__.py'>
+urllib3.packages : <module 'urllib3.packages' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/packages/__init__.py'>
+certifi : <module 'certifi' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/certifi/__init__.py'>
+PIL.ImageMode : <module 'PIL.ImageMode' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/ImageMode.py'>
+requests.packages.urllib3.packages.ssl_match_hostname : <module 'urllib3.packages.ssl_match_hostname' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/packages/ssl_match_hostname/__init__.py'>
+PIL._util : <module 'PIL._util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/_util.py'>
+encodings.utf_8 : <module 'encodings.utf_8' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/utf_8.py'>
+urllib3.fields : <module 'urllib3.fields' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/fields.py'>
+tornado.platform : <module 'tornado.platform' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/platform/__init__.py'>
+requests.__version__ : <module 'requests.__version__' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/__version__.py'>
+idna.package_data : <module 'idna.package_data' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/package_data.py'>
+encodings.latin_1 : <module 'encodings.latin_1' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/latin_1.py'>
+chardet.hebrewprober : <module 'chardet.hebrewprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/hebrewprober.py'>
+auto_test.pyprocess_test : <module 'auto_test.pyprocess_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyprocess_test.py'>
+_socket : <module '_socket' (built-in)>
+urllib3.util.connection : <module 'urllib3.util.connection' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/connection.py'>
+chardet.codingstatemachine : <module 'chardet.codingstatemachine' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/codingstatemachine.py'>
+_thread : <module '_thread' (built-in)>
+logging : <module 'logging' from '/usr/lib/python3.5/logging/__init__.py'>
+requests.packages.chardet.big5freq : <module 'chardet.big5freq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/big5freq.py'>
+tornado.ioloop : <module 'tornado.ioloop' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/ioloop.py'>
+abc : <module 'abc' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/abc.py'>
+email.feedparser : <module 'email.feedparser' from '/usr/lib/python3.5/email/feedparser.py'>
+requests.packages.urllib3.packages.six.moves.urllib.parse : <module 'urllib3.packages.six.moves.urllib.parse' (<urllib3.packages.six._SixMetaPathImporter object at 0x7f1c9e8f7e48>)>
+_bisect : <module '_bisect' (built-in)>
+bz2 : <module 'bz2' from '/usr/lib/python3.5/bz2.py'>
+curses : <module 'curses' from '/usr/lib/python3.5/curses/__init__.py'>
+select : <module 'select' (built-in)>
+_lzma : <module '_lzma' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_lzma.cpython-35m-x86_64-linux-gnu.so'>
+urllib.response : <module 'urllib.response' from '/usr/lib/python3.5/urllib/response.py'>
+getpass : <module 'getpass' from '/usr/lib/python3.5/getpass.py'>
+requests.packages.urllib3.connectionpool : <module 'urllib3.connectionpool' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/connectionpool.py'>
+auto_test.pylinux_test : <module 'auto_test.pylinux_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pylinux_test.py'>
+requests.packages.urllib3.poolmanager : <module 'urllib3.poolmanager' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/poolmanager.py'>
+chardet.langcyrillicmodel : <module 'chardet.langcyrillicmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langcyrillicmodel.py'>
+email._policybase : <module 'email._policybase' from '/usr/lib/python3.5/email/_policybase.py'>
+http.cookiejar : <module 'http.cookiejar' from '/usr/lib/python3.5/http/cookiejar.py'>
+pickle : <module 'pickle' from '/usr/lib/python3.5/pickle.py'>
+urllib3.request : <module 'urllib3.request' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/request.py'>
+chardet.enums : <module 'chardet.enums' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/enums.py'>
+_locale : <module '_locale' (built-in)>
+requests.packages.chardet.cp949prober : <module 'chardet.cp949prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/cp949prober.py'>
+requests.packages.chardet.euctwfreq : <module 'chardet.euctwfreq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/euctwfreq.py'>
+requests.packages.chardet.big5prober : <module 'chardet.big5prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/big5prober.py'>
+functools : <module 'functools' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/functools.py'>
+PIL : <module 'PIL' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/__init__.py'>
+tornado.speedups : <module 'tornado.speedups' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/speedups.cpython-35m-x86_64-linux-gnu.so'>
+tornado.httputil : <module 'tornado.httputil' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/httputil.py'>
+pybase.pylog : <module 'pybase.pylog' from '../pybase/pylog.py'>
+pymysql.protocol : <module 'pymysql.protocol' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/protocol.py'>
+__main__ : <module '__main__' from 'pytest.py'>
+auto_test.pypickle_test : <module 'auto_test.pypickle_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pypickle_test.py'>
+requests.packages.idna.intranges : <module 'idna.intranges' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/intranges.py'>
+pybase.pymodule : <module 'pybase.pymodule' from '../pybase/pymodule.py'>
+requests.packages.chardet.hebrewprober : <module 'chardet.hebrewprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/hebrewprober.py'>
+json.decoder : <module 'json.decoder' from '/usr/lib/python3.5/json/decoder.py'>
+pymysql.util : <module 'pymysql.util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/util.py'>
+requests.packages.urllib3.filepost : <module 'urllib3.filepost' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/filepost.py'>
+requests.packages.chardet.euckrfreq : <module 'chardet.euckrfreq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/euckrfreq.py'>
+tornado.httpserver : <module 'tornado.httpserver' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/httpserver.py'>
+auto_test.pycache_test : <module 'auto_test.pycache_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pycache_test.py'>
+tarfile : <module 'tarfile' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/tarfile.py'>
+json.encoder : <module 'json.encoder' from '/usr/lib/python3.5/json/encoder.py'>
+chardet.langthaimodel : <module 'chardet.langthaimodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langthaimodel.py'>
+sre_parse : <module 'sre_parse' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/sre_parse.py'>
+auto_test.pybaselog_test : <module 'auto_test.pybaselog_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pybaselog_test.py'>
+base64 : <module 'base64' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/base64.py'>
+pybase.pylinux : <module 'pybase.pylinux' from '../pybase/pylinux.py'>
+chardet.universaldetector : <module 'chardet.universaldetector' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/universaldetector.py'>
+sqlite3 : <module 'sqlite3' from '/usr/lib/python3.5/sqlite3/__init__.py'>
+urllib.request : <module 'urllib.request' from '/usr/lib/python3.5/urllib/request.py'>
+pymysql.optionfile : <module 'pymysql.optionfile' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/optionfile.py'>
+tornado.netutil : <module 'tornado.netutil' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/netutil.py'>
+asyncio.coroutines : <module 'asyncio.coroutines' from '/usr/lib/python3.5/asyncio/coroutines.py'>
+auto_test.pythread_test : <module 'auto_test.pythread_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pythread_test.py'>
+tornado : <module 'tornado' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/__init__.py'>
+multiprocessing.process : <module 'multiprocessing.process' from '/usr/lib/python3.5/multiprocessing/process.py'>
+opcode : <module 'opcode' from '/usr/lib/python3.5/opcode.py'>
+urllib3.packages.six.moves.urllib : <module 'urllib3.packages.six.moves.urllib' (<urllib3.packages.six._SixMetaPathImporter object at 0x7f1c9e8f7e48>)>
+asyncio.base_events : <module 'asyncio.base_events' from '/usr/lib/python3.5/asyncio/base_events.py'>
+binascii : <module 'binascii' (built-in)>
+atexit : <module 'atexit' (built-in)>
+importlib._bootstrap : <module 'importlib._bootstrap' (frozen)>
+urllib3.util.request : <module 'urllib3.util.request' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/request.py'>
+asyncio.tasks : <module 'asyncio.tasks' from '/usr/lib/python3.5/asyncio/tasks.py'>
+io : <module 'io' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/io.py'>
+requests.packages.chardet.charsetprober : <module 'chardet.charsetprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/charsetprober.py'>
+pybase.pyDes : <module 'pybase.pyDes' from '../pybase/pyDes.py'>
+tornado.util : <module 'tornado.util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/util.py'>
+requests.packages.urllib3.connection : <module 'urllib3.connection' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/connection.py'>
+requests.packages.urllib3.response : <module 'urllib3.response' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/response.py'>
+tornado.process : <module 'tornado.process' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/process.py'>
+chardet.langbulgarianmodel : <module 'chardet.langbulgarianmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langbulgarianmodel.py'>
+requests.models : <module 'requests.models' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/models.py'>
+email.utils : <module 'email.utils' from '/usr/lib/python3.5/email/utils.py'>
+typing.re : <class 'typing.re'>
+asyncio.subprocess : <module 'asyncio.subprocess' from '/usr/lib/python3.5/asyncio/subprocess.py'>
+termios : <module 'termios' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/termios.cpython-35m-x86_64-linux-gnu.so'>
+numbers : <module 'numbers' from '/usr/lib/python3.5/numbers.py'>
+pybase.pyfile : <module 'pybase.pyfile' from '../pybase/pyfile.py'>
+ssl : <module 'ssl' from '/usr/lib/python3.5/ssl.py'>
+warnings : <module 'warnings' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/warnings.py'>
+requests.packages.urllib3.packages.six.moves.urllib : <module 'urllib3.packages.six.moves.urllib' (<urllib3.packages.six._SixMetaPathImporter object at 0x7f1c9e8f7e48>)>
+chardet.big5prober : <module 'chardet.big5prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/big5prober.py'>
+builtins : <module 'builtins' (built-in)>
+random : <module 'random' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/random.py'>
+requests.packages.chardet.langbulgarianmodel : <module 'chardet.langbulgarianmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langbulgarianmodel.py'>
+pybase : <module 'pybase' from '../pybase/__init__.py'>
+hashlib : <module 'hashlib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/hashlib.py'>
+dis : <module 'dis' from '/usr/lib/python3.5/dis.py'>
+requests.packages.chardet.codingstatemachine : <module 'chardet.codingstatemachine' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/codingstatemachine.py'>
+asyncio.transports : <module 'asyncio.transports' from '/usr/lib/python3.5/asyncio/transports.py'>
+zipfile : <module 'zipfile' from '/usr/lib/python3.5/zipfile.py'>
+urllib3.util.timeout : <module 'urllib3.util.timeout' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/timeout.py'>
+urllib3.filepost : <module 'urllib3.filepost' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/filepost.py'>
+re : <module 're' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/re.py'>
+site : <module 'site' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site.py'>
+auto_test.pydec_encry_test : <module 'auto_test.pydec_encry_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pydec_encry_test.py'>
+requests.packages.urllib3.util.url : <module 'urllib3.util.url' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/url.py'>
+_multiprocessing : <module '_multiprocessing' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/lib-dynload/_multiprocessing.cpython-35m-x86_64-linux-gnu.so'>
+contextlib : <module 'contextlib' from '/usr/lib/python3.5/contextlib.py'>
+email.header : <module 'email.header' from '/usr/lib/python3.5/email/header.py'>
+_sre : <module '_sre' (built-in)>
+math : <module 'math' (built-in)>
+certifi.core : <module 'certifi.core' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/certifi/core.py'>
+chardet.euctwfreq : <module 'chardet.euctwfreq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/euctwfreq.py'>
+requests.packages.urllib3.util.ssl_ : <module 'urllib3.util.ssl_' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/ssl_.py'>
+urllib3.connection : <module 'urllib3.connection' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/connection.py'>
+pybase.pysig : <module 'pybase.pysig' from '../pybase/pysig.py'>
+sre_constants : <module 'sre_constants' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/sre_constants.py'>
+asyncio.streams : <module 'asyncio.streams' from '/usr/lib/python3.5/asyncio/streams.py'>
+PIL._version : <module 'PIL._version' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/_version.py'>
+urllib.error : <module 'urllib.error' from '/usr/lib/python3.5/urllib/error.py'>
+requests.packages.urllib3.util.response : <module 'urllib3.util.response' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/response.py'>
+operator : <module 'operator' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/operator.py'>
+_weakref : <module '_weakref' (built-in)>
+weakref : <module 'weakref' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/weakref.py'>
+asyncio.constants : <module 'asyncio.constants' from '/usr/lib/python3.5/asyncio/constants.py'>
+auto_test.pysig_test : <module 'auto_test.pysig_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pysig_test.py'>
+auto_test.pyjson_test : <module 'auto_test.pyjson_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyjson_test.py'>
+idna.intranges : <module 'idna.intranges' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/intranges.py'>
+http : <module 'http' from '/usr/lib/python3.5/http/__init__.py'>
+collections.abc : <module 'collections.abc' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/collections/abc.py'>
+auto_test.etc_test : <module 'auto_test.etc_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/etc_test.py'>
+chardet.utf8prober : <module 'chardet.utf8prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/utf8prober.py'>
+chardet.jpcntx : <module 'chardet.jpcntx' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/jpcntx.py'>
+importlib : <module 'importlib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/importlib/__init__.py'>
+ast : <module 'ast' from '/usr/lib/python3.5/ast.py'>
+_bootlocale : <module '_bootlocale' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/_bootlocale.py'>
+pylinux : <module 'pylinux' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pylinux.py'>
+pybase.pythread : <module 'pybase.pythread' from '../pybase/pythread.py'>
+urllib3.packages.six : <module 'urllib3.packages.six' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/packages/six.py'>
+json.scanner : <module 'json.scanner' from '/usr/lib/python3.5/json/scanner.py'>
+multiprocessing.reduction : <module 'multiprocessing.reduction' from '/usr/lib/python3.5/multiprocessing/reduction.py'>
+pyDes : <module 'pyDes' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pyDes.py'>
+requests.packages.urllib3.packages.six : <module 'urllib3.packages.six' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/packages/six.py'>
+asyncio : <module 'asyncio' from '/usr/lib/python3.5/asyncio/__init__.py'>
+asyncio.protocols : <module 'asyncio.protocols' from '/usr/lib/python3.5/asyncio/protocols.py'>
+tqdm._tqdm_pandas : <module 'tqdm._tqdm_pandas' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tqdm/_tqdm_pandas.py'>
+pybase.pybaselog : <module 'pybase.pybaselog' from '../pybase/pybaselog.py'>
+_frozen_importlib_external : <module 'importlib._bootstrap_external' (frozen)>
+requests.exceptions : <module 'requests.exceptions' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/exceptions.py'>
+PIL.Image : <module 'PIL.Image' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/Image.py'>
+calendar : <module 'calendar' from '/usr/lib/python3.5/calendar.py'>
+zlib : <module 'zlib' (built-in)>
+reprlib : <module 'reprlib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/reprlib.py'>
+tqdm._main : <module 'tqdm._main' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tqdm/_main.py'>
+encodings : <module 'encodings' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/encodings/__init__.py'>
+types : <module 'types' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/types.py'>
+pytest : <module 'pytest' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/pytest.py'>
+requests.adapters : <module 'requests.adapters' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/requests/adapters.py'>
+requests.packages.urllib3.contrib : <module 'urllib3.contrib' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/contrib/__init__.py'>
+chardet.compat : <module 'chardet.compat' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/compat.py'>
+__future__ : <module '__future__' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/__future__.py'>
+chardet.sjisprober : <module 'chardet.sjisprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/sjisprober.py'>
+requests.packages.chardet.euckrprober : <module 'chardet.euckrprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/euckrprober.py'>
+chardet.gb2312prober : <module 'chardet.gb2312prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/gb2312prober.py'>
+email.charset : <module 'email.charset' from '/usr/lib/python3.5/email/charset.py'>
+lzma : <module 'lzma' from '/usr/lib/python3.5/lzma.py'>
+tqdm._tqdm : <module 'tqdm._tqdm' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tqdm/_tqdm.py'>
+auto_test.pysqlite_test : <module 'auto_test.pysqlite_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pysqlite_test.py'>
+_operator : <module '_operator' (built-in)>
+tqdm._monitor : <module 'tqdm._monitor' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tqdm/_monitor.py'>
+concurrent : <module 'concurrent' from '/usr/lib/python3.5/concurrent/__init__.py'>
+codecs : <module 'codecs' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/codecs.py'>
+requests.packages.urllib3.contrib._appengine_environ : <module 'urllib3.contrib._appengine_environ' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/contrib/_appengine_environ.py'>
+urllib3.connectionpool : <module 'urllib3.connectionpool' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/connectionpool.py'>
+concurrent.futures.process : <module 'concurrent.futures.process' from '/usr/lib/python3.5/concurrent/futures/process.py'>
+PIL._binary : <module 'PIL._binary' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/PIL/_binary.py'>
+requests.packages.chardet.chardistribution : <module 'chardet.chardistribution' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/chardistribution.py'>
+requests.packages.idna.core : <module 'idna.core' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/core.py'>
+chardet.euckrfreq : <module 'chardet.euckrfreq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/euckrfreq.py'>
+auto_test.pytime_test : <module 'auto_test.pytime_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pytime_test.py'>
+requests.packages.chardet.compat : <module 'chardet.compat' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/compat.py'>
+pybase.pyhttp : <module 'pybase.pyhttp' from '../pybase/pyhttp.py'>
+requests.packages.chardet.langturkishmodel : <module 'chardet.langturkishmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langturkishmodel.py'>
+auto_test.pysql_test : <module 'auto_test.pysql_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pysql_test.py'>
+zipimport : <module 'zipimport' (built-in)>
+asyncio.log : <module 'asyncio.log' from '/usr/lib/python3.5/asyncio/log.py'>
+pymysql.constants.FIELD_TYPE : <module 'pymysql.constants.FIELD_TYPE' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/pymysql/constants/FIELD_TYPE.py'>
+tqdm._utils : <module 'tqdm._utils' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tqdm/_utils.py'>
+chardet.chardistribution : <module 'chardet.chardistribution' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/chardistribution.py'>
+chardet.cp949prober : <module 'chardet.cp949prober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/cp949prober.py'>
+pybase.pyprocess : <module 'pybase.pyprocess' from '../pybase/pyprocess.py'>
+pybase.pydb : <module 'pybase.pydb' from '../pybase/pydb.py'>
+selectors : <module 'selectors' from '/usr/lib/python3.5/selectors.py'>
+tqdm : <module 'tqdm' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tqdm/__init__.py'>
+chardet.langturkishmodel : <module 'chardet.langturkishmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langturkishmodel.py'>
+requests.packages.chardet.enums : <module 'chardet.enums' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/enums.py'>
+email.quoprimime : <module 'email.quoprimime' from '/usr/lib/python3.5/email/quoprimime.py'>
+requests.packages.chardet.mbcharsetprober : <module 'chardet.mbcharsetprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/mbcharsetprober.py'>
+posixpath : <module 'posixpath' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/posixpath.py'>
+marshal : <module 'marshal' (built-in)>
+tornado.gen : <module 'tornado.gen' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/gen.py'>
+requests.packages.urllib3.util.timeout : <module 'urllib3.util.timeout' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/timeout.py'>
+tornado.escape : <module 'tornado.escape' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tornado/escape.py'>
+requests.packages.chardet.sbcharsetprober : <module 'chardet.sbcharsetprober' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/sbcharsetprober.py'>
+auto_test.pydb_test : <module 'auto_test.pydb_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pydb_test.py'>
+pybase.pymysqldb : <module 'pybase.pymysqldb' from '../pybase/pymysqldb.py'>
+importlib._bootstrap_external : <module 'importlib._bootstrap_external' (frozen)>
+_ast : <module '_ast' (built-in)>
+unicodedata : <module 'unicodedata' (built-in)>
+_collections_abc : <module '_collections_abc' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/_collections_abc.py'>
+urllib3._collections : <module 'urllib3._collections' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/_collections.py'>
+pybase.pytime : <module 'pybase.pytime' from '../pybase/pytime.py'>
+traceback : <module 'traceback' from '/usr/lib/python3.5/traceback.py'>
+shutil : <module 'shutil' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/shutil.py'>
+chardet.gb2312freq : <module 'chardet.gb2312freq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/gb2312freq.py'>
+chardet.jisfreq : <module 'chardet.jisfreq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/jisfreq.py'>
+token : <module 'token' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/token.py'>
+tqdm._tqdm_gui : <module 'tqdm._tqdm_gui' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/tqdm/_tqdm_gui.py'>
+urllib3.exceptions : <module 'urllib3.exceptions' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/exceptions.py'>
+auto_test.pyre_test : <module 'auto_test.pyre_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pyre_test.py'>
+auto_test.pymysqldb_test : <module 'auto_test.pymysqldb_test' from '/home/liuzy/deep_learning/gitee/pybase/pybase/2.0.1/pybase/auto_test/pymysqldb_test.py'>
+requests.packages.urllib3.util : <module 'urllib3.util' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/util/__init__.py'>
+itertools : <module 'itertools' (built-in)>
+heapq : <module 'heapq' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/heapq.py'>
+requests.packages.urllib3.packages : <module 'urllib3.packages' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/urllib3/packages/__init__.py'>
+requests.packages.chardet.langcyrillicmodel : <module 'chardet.langcyrillicmodel' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/chardet/langcyrillicmodel.py'>
+os : <module 'os' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/os.py'>
+idna.idnadata : <module 'idna.idnadata' from '/home/liuzy/.pybase_env/py3env/lib/python3.5/site-packages/idna/idnadata.py'>
