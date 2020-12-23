@@ -15,6 +15,7 @@ import sys
 import os
 
 from os.path import join, getsize
+import operator
 
 if sys.version > '3':
     from pybase import etc
@@ -220,5 +221,12 @@ def test_compare_value(real_value, expected_value):
         auto_test_error("real:%s expect:%s" % (real_value, expected_value))
     else:
         auto_test_debug("real:%s expect:%s" % (real_value, expected_value))
+        
+def test_compare_data(real_value, expected_value):
+    if not operator.eq(real_value ,expected_value):
+        auto_test_error("real:%s expect:%s" % (real_value, expected_value))
+    else:
+        auto_test_debug("real:%s expect:%s" % (real_value, expected_value))
+
 
 init_log()
