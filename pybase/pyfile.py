@@ -65,6 +65,12 @@ def open_file_with_full_name(full_path, open_type):
             open(full_path, 'w')
         else:
             pylog.error(e)
+            
+def delete_a_file(path, name):
+    if check_is_have_file(path, name):
+        file_name = get_file_full_name(path, name)
+        if os.path.isfile(file_name):
+            os.remove(file_name)
 
 def delete_dir(src):
     if os.path.isfile(src):
