@@ -87,6 +87,39 @@ def write_log(log, log_path=""):
         file_object.write(log)
     finally:
         file_object.close()
+        
+def out_put_log2(level, content, log_path="", log_key="log", stack_layer=2, ):
+    func_name = sys._getframe(stack_layer).f_code.co_name
+    file_name = sys._getframe(stack_layer).f_code.co_filename
+    line = sys._getframe(stack_layer).f_lineno
+    now_time = datetime.datetime.now()
+    log_format = 'LEVEL:%s, LINE:%s, FUNC:%s, FILE:%s, TIME:%s, CONTENT:%s\n'
+    #log_format = 'LEVEL:%s, LINE:%s, FUNC:%s, FILE:%s, TIME:%s, CONTENT:%s'
+    con = log_format % (level, line, func_name, file_name, now_time, content)
+
+    if is_print_log(level):
+        if is_print_log_all_info(level):
+            #print(con)
+            print_str = con
+            sys.stdout.write(print_str)
+            sys.stdout.flush()
+        else:
+            f_name = file_name.split('/')[-1]
+            #print("%s line:%s %s" % (f_name, line, content))
+            print_str = "%s line:%s %s\n" % (f_name, line, content)
+            sys.stdout.write(print_str)
+            sys.stdout.flush()
+
+    if is_write_log(level):
+        write_log("%s\n" % con, log_path)
+
+def get_description_str(content, stack_layer=2):
+    func_name = sys._getframe(stack_layer).f_code.co_name
+    file_name = sys._getframe(stack_layer).f_code.co_filename
+    line = sys._getframe(stack_layer).f_lineno
+    log_format = 'LINE:%s, FUNC:%s, FILE:%s, CONTENT:%s'
+    con = log_format % (line, func_name, file_name, content)
+    return con
 
 def out_put_log(level, content, log_path="", log_key="log", stack_layer=2,):
     func_name = sys._getframe(stack_layer).f_code.co_name
